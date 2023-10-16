@@ -7,13 +7,15 @@ Hello and welcome to Group 2's submission for Project 3. Our group consists of A
 We had the freedom of choosing our topic so long as our project includes all of the following:
 
 1. Must include: Python Flask-powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.). 
-2. Your project should fall into one of the below four tracks: 
+2. Your project should fall into one of the below four tracks:
+
 ○ A combination of web scraping and Leaflet or Plotly 
+
 ○ A dashboard page with multiple charts that update from the same data 
-3. At least one JS library that we did not cover. 
-4. Powered by a dataset with at least 100 records. 
-5. Some level of user-driven interaction, such as menus, dropdowns, and textboxes. 
-6. If possible, your final visualization should include at least three views. 
+4. At least one JS library that we did not cover. 
+5. Powered by a dataset with at least 100 records. 
+6. Some level of user-driven interaction, such as menus, dropdowns, and textboxes. 
+7. If possible, your final visualization should include at least three views. 
 
 # Project: "USA Cost of Homes, Mortgage Rates, and Average Household Income in the Past 50 Years"
 
@@ -43,4 +45,6 @@ FRED. (nd). "30-Year Fixed Rate Mortgage Average in the United States". Federal 
 FRED. (nd). "Average Sales Price of Houses Sold for the United States". Federal Reserve Bank of St. Louis. Retrieved from: https://fred.stlouisfed.org/series/ASPUS
 
 FRED. (nd). "Mean Family Income in the United States". Federal Reserve Bank of St. Louis. Retrieved from: https://fred.stlouisfed.org/series/MAFAINUSA646N 
+
+SlidesGo. (nd). “Rental Housing Marketing Plan”. Freepik Company S.L. Retrieved from: https://slidesgo.com/theme/rental-housing-marketing-plan#search-housing&position-8&results-69&rs=search
 
