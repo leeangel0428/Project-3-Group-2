@@ -8,9 +8,7 @@ We had the freedom of choosing our topic so long as our project includes all of 
 
 1. Must include: Python Flask-powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.). 
 2. Your project should fall into one of the below four tracks:
-
 ○ A combination of web scraping and Leaflet or Plotly 
-
 ○ A dashboard page with multiple charts that update from the same data 
 4. At least one JS library that we did not cover. 
 5. Powered by a dataset with at least 100 records. 
