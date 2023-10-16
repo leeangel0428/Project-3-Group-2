@@ -20,7 +20,7 @@ We had the freedom of choosing our topic so long as our project includes all of 
 ### Description: 
 The aim of this project is to uncover patterns between the cost of homes in the US, their interest rates, and the average household income within the past 50 years.
 
-### Over arching Questions: 
+### Overarching Questions: 
 
 1. What is the relationship between US cost of homes and the interest rates?
 2. What is the relationship between US average household income and US cost of homes?
@@ -44,5 +44,14 @@ FRED. (nd). "Average Sales Price of Houses Sold for the United States". Federal 
 
 FRED. (nd). "Mean Family Income in the United States". Federal Reserve Bank of St. Louis. Retrieved from: https://fred.stlouisfed.org/series/MAFAINUSA646N 
 
+Multiple Contributors (https://github.com/chartjs/Chart.js/graphs/contributors). (nd). “Chart.js”. Retrieved from: https://www.chartjs.org/
+
 SlidesGo. (nd). “Rental Housing Marketing Plan”. Freepik Company S.L. Retrieved from: https://slidesgo.com/theme/rental-housing-marketing-plan#search-housing&position-8&results-69&rs=search
+
+Wikipedia. (2022, December 3rd). “Lodash”. Wikipedia Foundation, Inc. Retrieved from: https://en.wikipedia.org/wiki/Lodash
+
+Wikipedia. (2023, September 27th). “Charts.js”. Wikipedia Foundation, Inc. Retrieved from: https://en.wikipedia.org/wiki/Chart.js
+
+
+
 
