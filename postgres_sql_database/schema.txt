@@ -1,38 +1,38 @@
 annual_family_income
 -
-Year_Quarter  INT PK
-US_Household_Mean_Income INT
-Midwestern_Household_Mean_Income INT
-Northeastern_Household_Mean_Income INT
-Southern_Household_Mean_Income INT
-Western_Household_Mean_Income INT
+year_quarter INT PK FK - quarterly_house_price.year_quarter
+us_household_mean_income INT
+midwestern_household_mean_income INT
+northeastern_household_mean_income INT
+southern_household_mean_income INT
+western_household_mean_income INT
 
 
 annual_house_price
 -
-Year_Quarter INT FK - annual_family_income.Year_Quarter
-Southern_Average_Price INT
-Western_Average_Price INT
-Nationwide_Average_Price INT
-Northeastern_Average_Price INT
-Midwestern_Average_Price INT
+year_quarter INT FK - annual_family_income.year_quarter
+southern_average_price INT
+western_average_price INT
+nationwide_average_price INT
+northeastern_average_price INT
+midwestern_average_price INT
 
 annual_interest_rate
 -
-Year_Quarter INT FK - annual_family_income.Year_Quarter
-Fixed_30_year_Rate FLOAT
+year_quarter INT FK - annual_family_income.year_quarter
+fixed_30_year_rate FLOAT
 
 
 quarterly_house_price
 -
-Year_Quarter INT FK - annual_house_price.Year_Quarter
-Southern_Average_Price INT
-Western_Average_Price INT
-Nationwide_Average_Price INT
-Northeastern_Average_Price INT
-Midwestern_Average_Price INT
+year_quarter INT FK 
+southern_average_price INT
+western_average_price INT
+nationwide_average_price INT
+northeastern_average_price INT
+midwestern_average_price INT
 
 quarterly_interest_rate
 -
-Year_Quarter  INT FK - annual_interest_rate.Year_Quarter
-Fixed_30_year_Rate FLOAT
+year_quarter INT FK - annual_family_income.year_quarter
+fixed_30_year_rate FLOAT
