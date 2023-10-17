@@ -36,22 +36,22 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 
 # Resources/ Citations:
 
-Chase. (nd). "What percentage of your income should go towards your mortgage". JPMorgan Chase & Co. Retrieved from: https://www.chase.com/personal/mortgage/education/financing-a-home/what-percentage-income-towards-mortgage
+Chase. (n.d). "What percentage of your income should go towards your mortgage". JPMorgan Chase & Co. Retrieved from: https://www.chase.com/personal/mortgage/education/financing-a-home/what-percentage-income-towards-mortgage
 
-FRED. (nd). "30-Year Fixed Rate Mortgage Average in the United States". Federal Reserve Bank of St. Louis. Retrieved from: https://fred.stlouisfed.org/series/MORTGAGE30US
+Flask. (n.d). “Templates”. Pallets. Retrieved from: https://flask.palletsprojects.com/en/2.3.x/templating/#jinja-setup
 
-FRED. (nd). "Average Sales Price of Houses Sold for the United States". Federal Reserve Bank of St. Louis. Retrieved from: https://fred.stlouisfed.org/series/ASPUS
+FRED. (n.d). "30-Year Fixed Rate Mortgage Average in the United States". Federal Reserve Bank of St. Louis. Retrieved from: https://fred.stlouisfed.org/series/MORTGAGE30US
 
-FRED. (nd). "Mean Family Income in the United States". Federal Reserve Bank of St. Louis. Retrieved from: https://fred.stlouisfed.org/series/MAFAINUSA646N 
+FRED. (n.d). "Average Sales Price of Houses Sold for the United States". Federal Reserve Bank of St. Louis. Retrieved from: https://fred.stlouisfed.org/series/ASPUS
+
+FRED. (n.d). "Mean Family Income in the United States". Federal Reserve Bank of St. Louis. Retrieved from: https://fred.stlouisfed.org/series/MAFAINUSA646N 
+
+Grinberg, M. (2017, December 12th). “The Flask Mega-Tutorial Part II: Templates”. Miguelgrinberg.com. Retrieved from: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
 
 Multiple Contributors (https://github.com/chartjs/Chart.js/graphs/contributors). (nd). “Chart.js”. Retrieved from: https://www.chartjs.org/
 
-SlidesGo. (nd). “Rental Housing Marketing Plan”. Freepik Company S.L. Retrieved from: https://slidesgo.com/theme/rental-housing-marketing-plan#search-housing&position-8&results-69&rs=search
+SlidesGo. (n.d). “Rental Housing Marketing Plan”. Freepik Company S.L. Retrieved from: https://slidesgo.com/theme/rental-housing-marketing-plan#search-housing&position-8&results-69&rs=search
 
 Wikipedia. (2022, December 3rd). “Lodash”. Wikipedia Foundation, Inc. Retrieved from: https://en.wikipedia.org/wiki/Lodash
 
 Wikipedia. (2023, September 27th). “Charts.js”. Wikipedia Foundation, Inc. Retrieved from: https://en.wikipedia.org/wiki/Chart.js
-
-
-
-
