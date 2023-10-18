@@ -34,7 +34,13 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 
 # Trouble Shooting:
 
+1. Forgot to drop indexes while reading csv files into jupyter notebook so we later on had to switch and drop them before creating new csv files with the cleaned data.
+2. Assigned incorrect PKs and FKs to sql ERD which later caused importing errors and table update errors in the Postgres SQL database. Had to correct those and alter tables accordingly.
+
+
 # Resources/ Citations:
+
+Aside from the sources cited below, everything used was retained information gathered from classes and class activities. As always shout out to our bootcamp TAs Sam and Randy for all their help answering our questions during office hours, our instructor Hunter for always being clear in his articulation of the course material, and our colleagues (notably Parker Shimek) for their encouragement and support.
 
 Chase. (n.d). "What percentage of your income should go towards your mortgage". JPMorgan Chase & Co. Retrieved from: https://www.chase.com/personal/mortgage/education/financing-a-home/what-percentage-income-towards-mortgage
 

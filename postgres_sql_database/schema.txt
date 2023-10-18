@@ -1,6 +1,6 @@
 annual_family_income
 -
-year_quarter INT PK FK - quarterly_house_price.year_quarter
+year_quarter VARCHAR FK >- quarterly_house_price.year_quarter
 us_household_mean_income INT
 midwestern_household_mean_income INT
 northeastern_household_mean_income INT
@@ -10,7 +10,7 @@ western_household_mean_income INT
 
 annual_house_price
 -
-year_quarter INT FK - annual_family_income.year_quarter
+year_quarter VARCHAR FK >- quarterly_house_price.year_quarter
 southern_average_price INT
 western_average_price INT
 nationwide_average_price INT
@@ -19,13 +19,13 @@ midwestern_average_price INT
 
 annual_interest_rate
 -
-year_quarter INT FK - annual_family_income.year_quarter
-fixed_30_year_rate FLOAT
+year_quarter VARCHAR FK >- quarterly_house_price.year_quarter
+fixed_30_year_rate DECIMAL
 
 
 quarterly_house_price
 -
-year_quarter INT FK 
+year_quarter VARCHAR PK
 southern_average_price INT
 western_average_price INT
 nationwide_average_price INT
@@ -34,5 +34,5 @@ midwestern_average_price INT
 
 quarterly_interest_rate
 -
-year_quarter INT FK - annual_family_income.year_quarter
-fixed_30_year_rate FLOAT
+year_quarter VARCHAR FK - quarterly_house_price.year_quarter
+fixed_30_year_rate DECIMAL
