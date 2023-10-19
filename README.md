@@ -58,6 +58,10 @@ Multiple Contributors (https://github.com/chartjs/Chart.js/graphs/contributors).
 
 SlidesGo. (n.d). “Rental Housing Marketing Plan”. Freepik Company S.L. Retrieved from: https://slidesgo.com/theme/rental-housing-marketing-plan#search-housing&position-8&results-69&rs=search
 
+SparkByExamples. (2023, January 29th). "Convert Python List to JSON Examples" SparkByExamples: One Stop for all Code Examples. Retrieved from: https://sparkbyexamples.com/python/convert-python-list-to-json/
+
 Wikipedia. (2022, December 3rd). “Lodash”. Wikipedia Foundation, Inc. Retrieved from: https://en.wikipedia.org/wiki/Lodash
 
 Wikipedia. (2023, September 27th). “Charts.js”. Wikipedia Foundation, Inc. Retrieved from: https://en.wikipedia.org/wiki/Chart.js
+
+Y.,D. (2023, March 15th). "Use global variables in Python functions". Sentry. Retrieved from: "https://sentry.io/answers/use-global-variables-in-python-functions/"

@@ -1,0 +1,108 @@
+Code that was previously in app.py but taken out to clean annual_family_income
+Just in case we still need import
+
+## Base = automap_base()
+## Base.prepare(autoload_with = engine)
+# result = connection.execute("SELECT * FROM annual_family_income")
+# for row in result: 
+#     print (row)
+-----------------------------------------------------
+    # list1 = []
+    # list = []
+-------------------------------------
+    # data = jsonify(annual_family_income_result)
+    # print(data)
+    # return
+
+    ## for result in results:
+        ## print(result)
+        ## list.append(result)
+        ## for index in range(len(list)):
+            ## list1.append(list[index][0])
+    ## print (list1)
+    ## return
+
+## call_table("SELECT * FROM annual_family_income")
+
+-------------------------------------------------------
+## app.py
+# @app.route('/')
+# def plot_values():
+#     ## replace next line with whatever data you need from your database
+#     ## x_values = 
+#     ## y_values = 
+#     data = {'x_values': [1, 2, 3, 4, 5], 'y_values': [1, 4, 9, 16, 25]}
+#     return render_template('index.html', data=data)
+
+
+--------------------------------------------------
+
+Angel's function stuff:
+
+@app.route('/')
+def function1():
+    query= text('SELECT * FROM annual_family_income')
+    afi_results = connection.execute(query)
+    annual_family_income_key= []
+    for row in afi_results:
+        afi_result_dict = {}
+        afi_result_dict["year_quarter"] = row[0]
+        afi_result_dict["us_household_mean_income"] = row[1]
+        afi_result_dict["midwestern_household_mean_income"] = row[2]
+        afi_result_dict["southern_household_mean_income"]= row[3]
+        afi_result_dict["northeastern_household_mean_income"]= row[4]
+        afi_result_dict["western_household_mean_income"]= row[5]
+        annual_family_income_key.append(afi_result_dict)
+    return jsonify(annual_family_income_key)
+
+def function2():
+    query2= text('SELECT * FROM annual_house_price')
+    ahp_results = connection.execute(query2)
+    annual_house_price_key = []
+    for row in ahp_results:
+        ahp_result_dict = {}
+        ahp_result_dict["year_quarter"] = row[0]
+        ahp_result_dict["southern_household_mean_income"]= row[1]
+        ahp_result_dict["western_household_mean_income"]= row[2]
+        ahp_result_dict["us_household_mean_income"] = row[3]
+        ahp_result_dict["northeastern_household_mean_income"]= row[4]
+        ahp_result_dict["midwestern_household_mean_income"] = row[5]
+        annual_house_price_key.append(ahp_result_dict)
+    return jsonify(annual_house_price_key)
+
+def function3():
+    query3= text('SELECT * FROM quarterly_house_price')
+    qhp_results = connection.execute(query3)
+    quarterly_house_price_key = []
+    for row in qhp_results:
+        qhp_result_dict = {}
+        qhp_result_dict["year_quarter"] = row[0]
+        qhp_result_dict["southern_household_mean_income"]= row[1]
+        qhp_result_dict["western_household_mean_income"]= row[2]
+        qhp_result_dict["us_household_mean_income"] = row[3]
+        qhp_result_dict["northeastern_household_mean_income"]= row[4]
+        qhp_result_dict["midwestern_household_mean_income"] = row[5]
+        quarterly_house_price_key.append(qhp_result_dict)
+    return jsonify(quarterly_house_price_key)
+
+def function4():
+    query4= text('SELECT * FROM annual_interest_rate')
+    air_results = connection.execute(query4)
+    annual_interest_rate_key = []
+    for row in air_results:
+        air_result_dict = {}
+        air_result_dict["year_quarter"] = row[0]
+        air_result_dict["fixed_30_year_rate"]= row[1]
+        annual_interest_rate_key.append(air_result_dict)
+    return jsonify(annual_interest_rate_key)
+
+def function5():
+    query5= text('SELECT * FROM quarterly_interest_rate')
+    qir_results = connection.execute(query5)
+    quarterly_interest_rate_key = []
+    for row in qir_results:
+        qir_result_dict = {}
+        qir_result_dict["year_quarter"] = row[0]
+        qir_result_dict["fixed_30_year_rate"]= row[1]
+        quarterly_interest_rate_key.append(qir_result_dict)
+    return jsonify(quarterly_interest_rate_key)
