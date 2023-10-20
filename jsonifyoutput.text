@@ -1,0 +1,3868 @@
+{
+  "annual_family_income": [
+    {
+      "midwestern_household_mean_income": 16130,
+      "northeastern_household_mean_income": 14150,
+      "southern_household_mean_income": 16380,
+      "us_household_mean_income": 15550,
+      "western_household_mean_income": 16180,
+      "year_quarter": "1975Q1"
+    },
+    {
+      "midwestern_household_mean_income": 17770,
+      "northeastern_household_mean_income": 15460,
+      "southern_household_mean_income": 17290,
+      "us_household_mean_income": 16870,
+      "western_household_mean_income": 17540,
+      "year_quarter": "1976Q1"
+    },
+    {
+      "midwestern_household_mean_income": 18830,
+      "northeastern_household_mean_income": 16920,
+      "southern_household_mean_income": 19050,
+      "us_household_mean_income": 18260,
+      "western_household_mean_income": 18880,
+      "year_quarter": "1977Q1"
+    },
+    {
+      "midwestern_household_mean_income": 20690,
+      "northeastern_household_mean_income": 18610,
+      "southern_household_mean_income": 20610,
+      "us_household_mean_income": 20090,
+      "western_household_mean_income": 21260,
+      "year_quarter": "1978Q1"
+    },
+    {
+      "midwestern_household_mean_income": 22900,
+      "northeastern_household_mean_income": 20500,
+      "southern_household_mean_income": 23190,
+      "us_household_mean_income": 22320,
+      "western_household_mean_income": 23800,
+      "year_quarter": "1979Q1"
+    },
+    {
+      "midwestern_household_mean_income": 24350,
+      "northeastern_household_mean_income": 22190,
+      "southern_household_mean_income": 24830,
+      "us_household_mean_income": 23970,
+      "western_household_mean_income": 25740,
+      "year_quarter": "1980Q1"
+    },
+    {
+      "midwestern_household_mean_income": 25920,
+      "northeastern_household_mean_income": 24340,
+      "southern_household_mean_income": 26710,
+      "us_household_mean_income": 25840,
+      "western_household_mean_income": 27500,
+      "year_quarter": "1981Q1"
+    },
+    {
+      "midwestern_household_mean_income": 27380,
+      "northeastern_household_mean_income": 25850,
+      "southern_household_mean_income": 28390,
+      "us_household_mean_income": 27390,
+      "western_household_mean_income": 29090,
+      "year_quarter": "1982Q1"
+    },
+    {
+      "midwestern_household_mean_income": 28290,
+      "northeastern_household_mean_income": 27180,
+      "southern_household_mean_income": 30310,
+      "us_household_mean_income": 28640,
+      "western_household_mean_income": 29920,
+      "year_quarter": "1983Q1"
+    },
+    {
+      "midwestern_household_mean_income": 30230,
+      "northeastern_household_mean_income": 29550,
+      "southern_household_mean_income": 32880,
+      "us_household_mean_income": 31050,
+      "western_household_mean_income": 32870,
+      "year_quarter": "1984Q1"
+    },
+    {
+      "midwestern_household_mean_income": 32080,
+      "northeastern_household_mean_income": 30580,
+      "southern_household_mean_income": 35770,
+      "us_household_mean_income": 32940,
+      "western_household_mean_income": 35270,
+      "year_quarter": "1985Q1"
+    },
+    {
+      "midwestern_household_mean_income": 33890,
+      "northeastern_household_mean_income": 32720,
+      "southern_household_mean_income": 38090,
+      "us_household_mean_income": 34920,
+      "western_household_mean_income": 36800,
+      "year_quarter": "1986Q1"
+    },
+    {
+      "midwestern_household_mean_income": 36130,
+      "northeastern_household_mean_income": 34360,
+      "southern_household_mean_income": 40280,
+      "us_household_mean_income": 36880,
+      "western_household_mean_income": 38750,
+      "year_quarter": "1987Q1"
+    },
+    {
+      "midwestern_household_mean_income": 38160,
+      "northeastern_household_mean_income": 35450,
+      "southern_household_mean_income": 43180,
+      "us_household_mean_income": 38610,
+      "western_household_mean_income": 40040,
+      "year_quarter": "1988Q1"
+    },
+    {
+      "midwestern_household_mean_income": 40510,
+      "northeastern_household_mean_income": 37670,
+      "southern_household_mean_income": 47330,
+      "us_household_mean_income": 41510,
+      "western_household_mean_income": 43510,
+      "year_quarter": "1989Q1"
+    },
+    {
+      "midwestern_household_mean_income": 42410,
+      "northeastern_household_mean_income": 38640,
+      "southern_household_mean_income": 47220,
+      "us_household_mean_income": 42650,
+      "western_household_mean_income": 45310,
+      "year_quarter": "1990Q1"
+    },
+    {
+      "midwestern_household_mean_income": 42700,
+      "northeastern_household_mean_income": 39320,
+      "southern_household_mean_income": 48240,
+      "us_household_mean_income": 43240,
+      "western_household_mean_income": 45690,
+      "year_quarter": "1991Q1"
+    },
+    {
+      "midwestern_household_mean_income": 43550,
+      "northeastern_household_mean_income": 40350,
+      "southern_household_mean_income": 48720,
+      "us_household_mean_income": 44220,
+      "western_household_mean_income": 47300,
+      "year_quarter": "1992Q1"
+    },
+    {
+      "midwestern_household_mean_income": 45570,
+      "northeastern_household_mean_income": 43470,
+      "southern_household_mean_income": 52600,
+      "us_household_mean_income": 47220,
+      "western_household_mean_income": 50420,
+      "year_quarter": "1993Q1"
+    },
+    {
+      "midwestern_household_mean_income": 48110,
+      "northeastern_household_mean_income": 45550,
+      "southern_household_mean_income": 56250,
+      "us_household_mean_income": 49340,
+      "western_household_mean_income": 50780,
+      "year_quarter": "1994Q1"
+    },
+    {
+      "midwestern_household_mean_income": 52440,
+      "northeastern_household_mean_income": 46920,
+      "southern_household_mean_income": 55520,
+      "us_household_mean_income": 51350,
+      "western_household_mean_income": 53890,
+      "year_quarter": "1995Q1"
+    },
+    {
+      "midwestern_household_mean_income": 54020,
+      "northeastern_household_mean_income": 49410,
+      "southern_household_mean_income": 60100,
+      "us_household_mean_income": 53680,
+      "western_household_mean_income": 54800,
+      "year_quarter": "1996Q1"
+    },
+    {
+      "midwestern_household_mean_income": 57610,
+      "northeastern_household_mean_income": 52930,
+      "southern_household_mean_income": 62670,
+      "us_household_mean_income": 56900,
+      "western_household_mean_income": 57780,
+      "year_quarter": "1997Q1"
+    },
+    {
+      "midwestern_household_mean_income": 60910,
+      "northeastern_household_mean_income": 55420,
+      "southern_household_mean_income": 64890,
+      "us_household_mean_income": 59590,
+      "western_household_mean_income": 60550,
+      "year_quarter": "1998Q1"
+    },
+    {
+      "midwestern_household_mean_income": 63540,
+      "northeastern_household_mean_income": 57750,
+      "southern_household_mean_income": 69780,
+      "us_household_mean_income": 62570,
+      "western_household_mean_income": 63330,
+      "year_quarter": "1999Q1"
+    },
+    {
+      "midwestern_household_mean_income": 66870,
+      "northeastern_household_mean_income": 60620,
+      "southern_household_mean_income": 72850,
+      "us_household_mean_income": 65770,
+      "western_household_mean_income": 67170,
+      "year_quarter": "2000Q1"
+    },
+    {
+      "midwestern_household_mean_income": 66100,
+      "northeastern_household_mean_income": 62120,
+      "southern_household_mean_income": 75770,
+      "us_household_mean_income": 66860,
+      "western_household_mean_income": 67850,
+      "year_quarter": "2001Q1"
+    },
+    {
+      "midwestern_household_mean_income": 67260,
+      "northeastern_household_mean_income": 62180,
+      "southern_household_mean_income": 74460,
+      "us_household_mean_income": 66970,
+      "western_household_mean_income": 68280,
+      "year_quarter": "2002Q1"
+    },
+    {
+      "midwestern_household_mean_income": 69000,
+      "northeastern_household_mean_income": 62820,
+      "southern_household_mean_income": 76550,
+      "us_household_mean_income": 68560,
+      "western_household_mean_income": 71030,
+      "year_quarter": "2003Q1"
+    },
+    {
+      "midwestern_household_mean_income": 69130,
+      "northeastern_household_mean_income": 65600,
+      "southern_household_mean_income": 79230,
+      "us_household_mean_income": 70390,
+      "western_household_mean_income": 72380,
+      "year_quarter": "2004Q1"
+    },
+    {
+      "midwestern_household_mean_income": 71990,
+      "northeastern_household_mean_income": 67860,
+      "southern_household_mean_income": 82090,
+      "us_household_mean_income": 73300,
+      "western_household_mean_income": 76410,
+      "year_quarter": "2005Q1"
+    },
+    {
+      "midwestern_household_mean_income": 75050,
+      "northeastern_household_mean_income": 71540,
+      "southern_household_mean_income": 87620,
+      "us_household_mean_income": 77320,
+      "western_household_mean_income": 80880,
+      "year_quarter": "2006Q1"
+    },
+    {
+      "midwestern_household_mean_income": 77480,
+      "northeastern_household_mean_income": 73470,
+      "southern_household_mean_income": 86340,
+      "us_household_mean_income": 78850,
+      "western_household_mean_income": 83240,
+      "year_quarter": "2007Q1"
+    },
+    {
+      "midwestern_household_mean_income": 76430,
+      "northeastern_household_mean_income": 73640,
+      "southern_household_mean_income": 88720,
+      "us_household_mean_income": 79630,
+      "western_household_mean_income": 85600,
+      "year_quarter": "2008Q1"
+    },
+    {
+      "midwestern_household_mean_income": 74930,
+      "northeastern_household_mean_income": 72090,
+      "southern_household_mean_income": 91100,
+      "us_household_mean_income": 78540,
+      "western_household_mean_income": 82940,
+      "year_quarter": "2009Q1"
+    },
+    {
+      "midwestern_household_mean_income": 76120,
+      "northeastern_household_mean_income": 73120,
+      "southern_household_mean_income": 88380,
+      "us_household_mean_income": 78180,
+      "western_household_mean_income": 80790,
+      "year_quarter": "2010Q1"
+    },
+    {
+      "midwestern_household_mean_income": 78710,
+      "northeastern_household_mean_income": 76190,
+      "southern_household_mean_income": 90730,
+      "us_household_mean_income": 81010,
+      "western_household_mean_income": 83870,
+      "year_quarter": "2011Q1"
+    },
+    {
+      "midwestern_household_mean_income": 83190,
+      "northeastern_household_mean_income": 75730,
+      "southern_household_mean_income": 92650,
+      "us_household_mean_income": 82840,
+      "western_household_mean_income": 86890,
+      "year_quarter": "2012Q1"
+    },
+    {
+      "midwestern_household_mean_income": 88450,
+      "northeastern_household_mean_income": 79630,
+      "southern_household_mean_income": 98920,
+      "us_household_mean_income": 87670,
+      "western_household_mean_income": 91980,
+      "year_quarter": "2013Q1"
+    },
+    {
+      "midwestern_household_mean_income": 87430,
+      "northeastern_household_mean_income": 83070,
+      "southern_household_mean_income": 100000,
+      "us_household_mean_income": 88770,
+      "western_household_mean_income": 90940,
+      "year_quarter": "2014Q1"
+    },
+    {
+      "midwestern_household_mean_income": 92270,
+      "northeastern_household_mean_income": 86160,
+      "southern_household_mean_income": 103900,
+      "us_household_mean_income": 92670,
+      "western_household_mean_income": 95390,
+      "year_quarter": "2015Q1"
+    },
+    {
+      "midwestern_household_mean_income": 95820,
+      "northeastern_household_mean_income": 90110,
+      "southern_household_mean_income": 110200,
+      "us_household_mean_income": 97360,
+      "western_household_mean_income": 101300,
+      "year_quarter": "2016Q1"
+    },
+    {
+      "midwestern_household_mean_income": 102600,
+      "northeastern_household_mean_income": 94230,
+      "southern_household_mean_income": 117900,
+      "us_household_mean_income": 103200,
+      "western_household_mean_income": 107900,
+      "year_quarter": "2017Q1"
+    },
+    {
+      "midwestern_household_mean_income": 105800,
+      "northeastern_household_mean_income": 95750,
+      "southern_household_mean_income": 122900,
+      "us_household_mean_income": 106000,
+      "western_household_mean_income": 111400,
+      "year_quarter": "2018Q1"
+    },
+    {
+      "midwestern_household_mean_income": 114700,
+      "northeastern_household_mean_income": 108100,
+      "southern_household_mean_income": 133400,
+      "us_household_mean_income": 116700,
+      "western_household_mean_income": 121000,
+      "year_quarter": "2019Q1"
+    },
+    {
+      "midwestern_household_mean_income": 116500,
+      "northeastern_household_mean_income": 106100,
+      "southern_household_mean_income": 129700,
+      "us_household_mean_income": 115300,
+      "western_household_mean_income": 119200,
+      "year_quarter": "2020Q1"
+    },
+    {
+      "midwestern_household_mean_income": 120100,
+      "northeastern_household_mean_income": 109600,
+      "southern_household_mean_income": 139700,
+      "us_household_mean_income": 121800,
+      "western_household_mean_income": 131600,
+      "year_quarter": "2021Q1"
+    },
+    {
+      "midwestern_household_mean_income": 126700,
+      "northeastern_household_mean_income": 115000,
+      "southern_household_mean_income": 141400,
+      "us_household_mean_income": 126500,
+      "western_household_mean_income": 135300,
+      "year_quarter": "2022Q1"
+    }
+  ],
+  "annual_house_price": [
+    {
+      "midwestern_household_mean_income": 44000,
+      "northeastern_household_mean_income": 46400,
+      "southern_household_mean_income": 39800,
+      "us_household_mean_income": 42600,
+      "western_household_mean_income": 43600,
+      "year_quarter": "1975Q2"
+    },
+    {
+      "midwestern_household_mean_income": 49400,
+      "northeastern_household_mean_income": 48100,
+      "southern_household_mean_income": 43700,
+      "us_household_mean_income": 47800,
+      "western_household_mean_income": 51600,
+      "year_quarter": "1976Q2"
+    },
+    {
+      "midwestern_household_mean_income": 54100,
+      "northeastern_household_mean_income": 55800,
+      "southern_household_mean_income": 48300,
+      "us_household_mean_income": 54300,
+      "western_household_mean_income": 61200,
+      "year_quarter": "1977Q2"
+    },
+    {
+      "midwestern_household_mean_income": 63400,
+      "northeastern_household_mean_income": 60800,
+      "southern_household_mean_income": 54800,
+      "us_household_mean_income": 61600,
+      "western_household_mean_income": 69600,
+      "year_quarter": "1978Q2"
+    },
+    {
+      "midwestern_household_mean_income": 75800,
+      "northeastern_household_mean_income": 73400,
+      "southern_household_mean_income": 64000,
+      "us_household_mean_income": 72400,
+      "western_household_mean_income": 82000,
+      "year_quarter": "1979Q2"
+    },
+    {
+      "midwestern_household_mean_income": 73600,
+      "northeastern_household_mean_income": 74900,
+      "southern_household_mean_income": 66800,
+      "us_household_mean_income": 74400,
+      "western_household_mean_income": 90000,
+      "year_quarter": "1980Q2"
+    },
+    {
+      "midwestern_household_mean_income": 82700,
+      "northeastern_household_mean_income": 95100,
+      "southern_household_mean_income": 75900,
+      "us_household_mean_income": 84300,
+      "western_household_mean_income": 97100,
+      "year_quarter": "1981Q2"
+    },
+    {
+      "midwestern_household_mean_income": 84200,
+      "northeastern_household_mean_income": 93700,
+      "southern_household_mean_income": 79800,
+      "us_household_mean_income": 85700,
+      "western_household_mean_income": 96300,
+      "year_quarter": "1982Q2"
+    },
+    {
+      "midwestern_household_mean_income": 97800,
+      "northeastern_household_mean_income": 93300,
+      "southern_household_mean_income": 82700,
+      "us_household_mean_income": 89100,
+      "western_household_mean_income": 95300,
+      "year_quarter": "1983Q2"
+    },
+    {
+      "midwestern_household_mean_income": 109600,
+      "northeastern_household_mean_income": 114900,
+      "southern_household_mean_income": 85400,
+      "us_household_mean_income": 99200,
+      "western_household_mean_income": 110000,
+      "year_quarter": "1984Q2"
+    },
+    {
+      "midwestern_household_mean_income": 93400,
+      "northeastern_household_mean_income": 118100,
+      "southern_household_mean_income": 89700,
+      "us_household_mean_income": 100500,
+      "western_household_mean_income": 113000,
+      "year_quarter": "1985Q2"
+    },
+    {
+      "midwestern_household_mean_income": 103500,
+      "northeastern_household_mean_income": 150700,
+      "southern_household_mean_income": 93900,
+      "us_household_mean_income": 112000,
+      "western_household_mean_income": 117700,
+      "year_quarter": "1986Q2"
+    },
+    {
+      "midwestern_household_mean_income": 113300,
+      "northeastern_household_mean_income": 180700,
+      "southern_household_mean_income": 103600,
+      "us_household_mean_income": 126100,
+      "western_household_mean_income": 134700,
+      "year_quarter": "1987Q2"
+    },
+    {
+      "midwestern_household_mean_income": 126300,
+      "northeastern_household_mean_income": 177300,
+      "southern_household_mean_income": 109900,
+      "us_household_mean_income": 134800,
+      "western_household_mean_income": 150200,
+      "year_quarter": "1988Q2"
+    },
+    {
+      "midwestern_household_mean_income": 133900,
+      "northeastern_household_mean_income": 178400,
+      "southern_household_mean_income": 121100,
+      "us_household_mean_income": 146800,
+      "western_household_mean_income": 174100,
+      "year_quarter": "1989Q2"
+    },
+    {
+      "midwestern_household_mean_income": 135900,
+      "northeastern_household_mean_income": 185100,
+      "southern_household_mean_income": 128700,
+      "us_household_mean_income": 151200,
+      "western_household_mean_income": 176900,
+      "year_quarter": "1990Q2"
+    },
+    {
+      "midwestern_household_mean_income": 131500,
+      "northeastern_household_mean_income": 197700,
+      "southern_household_mean_income": 124700,
+      "us_household_mean_income": 148200,
+      "western_household_mean_income": 176200,
+      "year_quarter": "1991Q2"
+    },
+    {
+      "midwestern_household_mean_income": 141500,
+      "northeastern_household_mean_income": 197800,
+      "southern_household_mean_income": 126000,
+      "us_household_mean_income": 145300,
+      "western_household_mean_income": 160500,
+      "year_quarter": "1992Q2"
+    },
+    {
+      "midwestern_household_mean_income": 140700,
+      "northeastern_household_mean_income": 185000,
+      "southern_household_mean_income": 136100,
+      "us_household_mean_income": 148900,
+      "western_household_mean_income": 160300,
+      "year_quarter": "1993Q2"
+    },
+    {
+      "midwestern_household_mean_income": 150600,
+      "northeastern_household_mean_income": 202400,
+      "southern_household_mean_income": 138700,
+      "us_household_mean_income": 154200,
+      "western_household_mean_income": 167000,
+      "year_quarter": "1994Q2"
+    },
+    {
+      "midwestern_household_mean_income": 160500,
+      "northeastern_household_mean_income": 209400,
+      "southern_household_mean_income": 140500,
+      "us_household_mean_income": 158900,
+      "western_household_mean_income": 169300,
+      "year_quarter": "1995Q2"
+    },
+    {
+      "midwestern_household_mean_income": 155900,
+      "northeastern_household_mean_income": 238400,
+      "southern_household_mean_income": 140900,
+      "us_household_mean_income": 166000,
+      "western_household_mean_income": 189400,
+      "year_quarter": "1996Q2"
+    },
+    {
+      "midwestern_household_mean_income": 173000,
+      "northeastern_household_mean_income": 239300,
+      "southern_household_mean_income": 151500,
+      "us_household_mean_income": 177200,
+      "western_household_mean_income": 199500,
+      "year_quarter": "1997Q2"
+    },
+    {
+      "midwestern_household_mean_income": 172900,
+      "northeastern_household_mean_income": 242800,
+      "southern_household_mean_income": 155500,
+      "us_household_mean_income": 178800,
+      "western_household_mean_income": 197400,
+      "year_quarter": "1998Q2"
+    },
+    {
+      "midwestern_household_mean_income": 177300,
+      "northeastern_household_mean_income": 248300,
+      "southern_household_mean_income": 173500,
+      "us_household_mean_income": 191800,
+      "western_household_mean_income": 215400,
+      "year_quarter": "1999Q2"
+    },
+    {
+      "midwestern_household_mean_income": 197700,
+      "northeastern_household_mean_income": 254800,
+      "southern_household_mean_income": 174700,
+      "us_household_mean_income": 202400,
+      "western_household_mean_income": 237400,
+      "year_quarter": "2000Q2"
+    },
+    {
+      "midwestern_household_mean_income": 198200,
+      "northeastern_household_mean_income": 301200,
+      "southern_household_mean_income": 182400,
+      "us_household_mean_income": 211200,
+      "western_household_mean_income": 247100,
+      "year_quarter": "2001Q2"
+    },
+    {
+      "midwestern_household_mean_income": 198700,
+      "northeastern_household_mean_income": 288900,
+      "southern_household_mean_income": 199200,
+      "us_household_mean_income": 227600,
+      "western_household_mean_income": 275100,
+      "year_quarter": "2002Q2"
+    },
+    {
+      "midwestern_household_mean_income": 206500,
+      "northeastern_household_mean_income": 315200,
+      "southern_household_mean_income": 205600,
+      "us_household_mean_income": 241000,
+      "western_household_mean_income": 293800,
+      "year_quarter": "2003Q2"
+    },
+    {
+      "midwestern_household_mean_income": 239800,
+      "northeastern_household_mean_income": 333400,
+      "southern_household_mean_income": 214900,
+      "us_household_mean_income": 265300,
+      "western_household_mean_income": 337900,
+      "year_quarter": "2004Q2"
+    },
+    {
+      "midwestern_household_mean_income": 239700,
+      "northeastern_household_mean_income": 373000,
+      "southern_household_mean_income": 236600,
+      "us_household_mean_income": 287800,
+      "western_household_mean_income": 386200,
+      "year_quarter": "2005Q2"
+    },
+    {
+      "midwestern_household_mean_income": 242300,
+      "northeastern_household_mean_income": 431200,
+      "southern_household_mean_income": 250700,
+      "us_household_mean_income": 302600,
+      "western_household_mean_income": 413200,
+      "year_quarter": "2006Q2"
+    },
+    {
+      "midwestern_household_mean_income": 261600,
+      "northeastern_household_mean_income": 404900,
+      "southern_household_mean_income": 264000,
+      "us_household_mean_income": 310100,
+      "western_household_mean_income": 414000,
+      "year_quarter": "2007Q2"
+    },
+    {
+      "midwestern_household_mean_income": 239100,
+      "northeastern_household_mean_income": 511000,
+      "southern_household_mean_income": 268100,
+      "us_household_mean_income": 304200,
+      "western_household_mean_income": 375400,
+      "year_quarter": "2008Q2"
+    },
+    {
+      "midwestern_household_mean_income": 234000,
+      "northeastern_household_mean_income": 377300,
+      "southern_household_mean_income": 243500,
+      "us_household_mean_income": 273400,
+      "western_household_mean_income": 336900,
+      "year_quarter": "2009Q2"
+    },
+    {
+      "midwestern_household_mean_income": 220500,
+      "northeastern_household_mean_income": 432200,
+      "southern_household_mean_income": 233700,
+      "us_household_mean_income": 268800,
+      "western_household_mean_income": 322200,
+      "year_quarter": "2010Q2"
+    },
+    {
+      "midwestern_household_mean_income": 247500,
+      "northeastern_household_mean_income": 348700,
+      "southern_household_mean_income": 244200,
+      "us_household_mean_income": 267600,
+      "western_household_mean_income": 311000,
+      "year_quarter": "2011Q2"
+    },
+    {
+      "midwestern_household_mean_income": 261000,
+      "northeastern_household_mean_income": 411800,
+      "southern_household_mean_income": 253000,
+      "us_household_mean_income": 282700,
+      "western_household_mean_income": 313400,
+      "year_quarter": "2012Q2"
+    },
+    {
+      "midwestern_household_mean_income": 289600,
+      "northeastern_household_mean_income": 480900,
+      "southern_household_mean_income": 295100,
+      "us_household_mean_income": 320400,
+      "western_household_mean_income": 355000,
+      "year_quarter": "2013Q2"
+    },
+    {
+      "midwestern_household_mean_income": 305700,
+      "northeastern_household_mean_income": 473800,
+      "southern_household_mean_income": 310200,
+      "us_household_mean_income": 340600,
+      "western_household_mean_income": 391200,
+      "year_quarter": "2014Q2"
+    },
+    {
+      "midwestern_household_mean_income": 325300,
+      "northeastern_household_mean_income": 485000,
+      "southern_household_mean_income": 306300,
+      "us_household_mean_income": 339700,
+      "western_household_mean_income": 391100,
+      "year_quarter": "2015Q2"
+    },
+    {
+      "midwestern_household_mean_income": 296500,
+      "northeastern_household_mean_income": 541300,
+      "southern_household_mean_income": 314400,
+      "us_household_mean_income": 357900,
+      "western_household_mean_income": 439600,
+      "year_quarter": "2016Q2"
+    },
+    {
+      "midwestern_household_mean_income": 322300,
+      "northeastern_household_mean_income": 583500,
+      "southern_household_mean_income": 336100,
+      "us_household_mean_income": 376900,
+      "western_household_mean_income": 432700,
+      "year_quarter": "2017Q2"
+    },
+    {
+      "midwestern_household_mean_income": 316600,
+      "northeastern_household_mean_income": 576600,
+      "southern_household_mean_income": 327200,
+      "us_household_mean_income": 378400,
+      "western_household_mean_income": 483700,
+      "year_quarter": "2018Q2"
+    },
+    {
+      "midwestern_household_mean_income": 310600,
+      "northeastern_household_mean_income": 608200,
+      "southern_household_mean_income": 334500,
+      "us_household_mean_income": 376700,
+      "western_household_mean_income": 464400,
+      "year_quarter": "2019Q2"
+    },
+    {
+      "midwestern_household_mean_income": 329800,
+      "northeastern_household_mean_income": 608300,
+      "southern_household_mean_income": 327000,
+      "us_household_mean_income": 374500,
+      "western_household_mean_income": 457800,
+      "year_quarter": "2020Q2"
+    },
+    {
+      "midwestern_household_mean_income": 370000,
+      "northeastern_household_mean_income": 722900,
+      "southern_household_mean_income": 391000,
+      "us_household_mean_income": 440600,
+      "western_household_mean_income": 531600,
+      "year_quarter": "2021Q2"
+    },
+    {
+      "midwestern_household_mean_income": 438700,
+      "northeastern_household_mean_income": 707000,
+      "southern_household_mean_income": 482000,
+      "us_household_mean_income": 527500,
+      "western_household_mean_income": 647300,
+      "year_quarter": "2022Q2"
+    }
+  ],
+  "annual_interest_rate": [
+    {
+      "fixed_30_year_rate": "9.1685",
+      "year_quarter": "1975Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.8754",
+      "year_quarter": "1975Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.9838",
+      "year_quarter": "1975Q3"
+    },
+    {
+      "fixed_30_year_rate": "9.1608",
+      "year_quarter": "1975Q4"
+    },
+    {
+      "fixed_30_year_rate": "8.8731",
+      "year_quarter": "1976Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.7769",
+      "year_quarter": "1976Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.9677",
+      "year_quarter": "1976Q3"
+    },
+    {
+      "fixed_30_year_rate": "8.8471",
+      "year_quarter": "1976Q4"
+    },
+    {
+      "fixed_30_year_rate": "8.6933",
+      "year_quarter": "1977Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.8077",
+      "year_quarter": "1977Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.925",
+      "year_quarter": "1977Q3"
+    },
+    {
+      "fixed_30_year_rate": "8.9369",
+      "year_quarter": "1977Q4"
+    },
+    {
+      "fixed_30_year_rate": "9.1269",
+      "year_quarter": "1978Q1"
+    },
+    {
+      "fixed_30_year_rate": "9.5577",
+      "year_quarter": "1978Q2"
+    },
+    {
+      "fixed_30_year_rate": "9.76",
+      "year_quarter": "1978Q3"
+    },
+    {
+      "fixed_30_year_rate": "10.1223",
+      "year_quarter": "1978Q4"
+    },
+    {
+      "fixed_30_year_rate": "10.4092",
+      "year_quarter": "1979Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.7638",
+      "year_quarter": "1979Q2"
+    },
+    {
+      "fixed_30_year_rate": "11.1569",
+      "year_quarter": "1979Q3"
+    },
+    {
+      "fixed_30_year_rate": "12.4846",
+      "year_quarter": "1979Q4"
+    },
+    {
+      "fixed_30_year_rate": "13.68",
+      "year_quarter": "1980Q1"
+    },
+    {
+      "fixed_30_year_rate": "14.4192",
+      "year_quarter": "1980Q2"
+    },
+    {
+      "fixed_30_year_rate": "12.6431",
+      "year_quarter": "1980Q3"
+    },
+    {
+      "fixed_30_year_rate": "14.2262",
+      "year_quarter": "1980Q4"
+    },
+    {
+      "fixed_30_year_rate": "15.1269",
+      "year_quarter": "1981Q1"
+    },
+    {
+      "fixed_30_year_rate": "16.2392",
+      "year_quarter": "1981Q2"
+    },
+    {
+      "fixed_30_year_rate": "17.38",
+      "year_quarter": "1981Q3"
+    },
+    {
+      "fixed_30_year_rate": "17.7357",
+      "year_quarter": "1981Q4"
+    },
+    {
+      "fixed_30_year_rate": "17.4142",
+      "year_quarter": "1982Q1"
+    },
+    {
+      "fixed_30_year_rate": "16.7662",
+      "year_quarter": "1982Q2"
+    },
+    {
+      "fixed_30_year_rate": "16.2215",
+      "year_quarter": "1982Q3"
+    },
+    {
+      "fixed_30_year_rate": "14.0329",
+      "year_quarter": "1982Q4"
+    },
+    {
+      "fixed_30_year_rate": "13.03",
+      "year_quarter": "1983Q1"
+    },
+    {
+      "fixed_30_year_rate": "12.7631",
+      "year_quarter": "1983Q2"
+    },
+    {
+      "fixed_30_year_rate": "13.6414",
+      "year_quarter": "1983Q3"
+    },
+    {
+      "fixed_30_year_rate": "13.46",
+      "year_quarter": "1983Q4"
+    },
+    {
+      "fixed_30_year_rate": "13.3331",
+      "year_quarter": "1984Q1"
+    },
+    {
+      "fixed_30_year_rate": "14.0354",
+      "year_quarter": "1984Q2"
+    },
+    {
+      "fixed_30_year_rate": "14.4938",
+      "year_quarter": "1984Q3"
+    },
+    {
+      "fixed_30_year_rate": "13.6485",
+      "year_quarter": "1984Q4"
+    },
+    {
+      "fixed_30_year_rate": "13.0638",
+      "year_quarter": "1985Q1"
+    },
+    {
+      "fixed_30_year_rate": "12.7854",
+      "year_quarter": "1985Q2"
+    },
+    {
+      "fixed_30_year_rate": "12.1408",
+      "year_quarter": "1985Q3"
+    },
+    {
+      "fixed_30_year_rate": "11.7308",
+      "year_quarter": "1985Q4"
+    },
+    {
+      "fixed_30_year_rate": "10.5838",
+      "year_quarter": "1986Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.2462",
+      "year_quarter": "1986Q2"
+    },
+    {
+      "fixed_30_year_rate": "10.2354",
+      "year_quarter": "1986Q3"
+    },
+    {
+      "fixed_30_year_rate": "9.6838",
+      "year_quarter": "1986Q4"
+    },
+    {
+      "fixed_30_year_rate": "9.1146",
+      "year_quarter": "1987Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.3431",
+      "year_quarter": "1987Q2"
+    },
+    {
+      "fixed_30_year_rate": "10.4815",
+      "year_quarter": "1987Q3"
+    },
+    {
+      "fixed_30_year_rate": "10.8643",
+      "year_quarter": "1987Q4"
+    },
+    {
+      "fixed_30_year_rate": "10.0683",
+      "year_quarter": "1988Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.3592",
+      "year_quarter": "1988Q2"
+    },
+    {
+      "fixed_30_year_rate": "10.4964",
+      "year_quarter": "1988Q3"
+    },
+    {
+      "fixed_30_year_rate": "10.41",
+      "year_quarter": "1988Q4"
+    },
+    {
+      "fixed_30_year_rate": "10.82",
+      "year_quarter": "1989Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.6362",
+      "year_quarter": "1989Q2"
+    },
+    {
+      "fixed_30_year_rate": "10.0077",
+      "year_quarter": "1989Q3"
+    },
+    {
+      "fixed_30_year_rate": "9.8138",
+      "year_quarter": "1989Q4"
+    },
+    {
+      "fixed_30_year_rate": "10.1315",
+      "year_quarter": "1990Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.3238",
+      "year_quarter": "1990Q2"
+    },
+    {
+      "fixed_30_year_rate": "10.1031",
+      "year_quarter": "1990Q3"
+    },
+    {
+      "fixed_30_year_rate": "9.9592",
+      "year_quarter": "1990Q4"
+    },
+    {
+      "fixed_30_year_rate": "9.5008",
+      "year_quarter": "1991Q1"
+    },
+    {
+      "fixed_30_year_rate": "9.5223",
+      "year_quarter": "1991Q2"
+    },
+    {
+      "fixed_30_year_rate": "9.2731",
+      "year_quarter": "1991Q3"
+    },
+    {
+      "fixed_30_year_rate": "8.69",
+      "year_quarter": "1991Q4"
+    },
+    {
+      "fixed_30_year_rate": "8.6885",
+      "year_quarter": "1992Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.6777",
+      "year_quarter": "1992Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.0177",
+      "year_quarter": "1992Q3"
+    },
+    {
+      "fixed_30_year_rate": "8.1921",
+      "year_quarter": "1992Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.7233",
+      "year_quarter": "1993Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.4531",
+      "year_quarter": "1993Q2"
+    },
+    {
+      "fixed_30_year_rate": "7.0877",
+      "year_quarter": "1993Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.0464",
+      "year_quarter": "1993Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.2958",
+      "year_quarter": "1994Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.4277",
+      "year_quarter": "1994Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.5943",
+      "year_quarter": "1994Q3"
+    },
+    {
+      "fixed_30_year_rate": "9.1054",
+      "year_quarter": "1994Q4"
+    },
+    {
+      "fixed_30_year_rate": "8.7854",
+      "year_quarter": "1995Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.9177",
+      "year_quarter": "1995Q2"
+    },
+    {
+      "fixed_30_year_rate": "7.6962",
+      "year_quarter": "1995Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.3392",
+      "year_quarter": "1995Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.2723",
+      "year_quarter": "1996Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.1023",
+      "year_quarter": "1996Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.1469",
+      "year_quarter": "1996Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.7031",
+      "year_quarter": "1996Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.7931",
+      "year_quarter": "1997Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.9269",
+      "year_quarter": "1997Q2"
+    },
+    {
+      "fixed_30_year_rate": "7.47",
+      "year_quarter": "1997Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.2054",
+      "year_quarter": "1997Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.05",
+      "year_quarter": "1998Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.0977",
+      "year_quarter": "1998Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.8723",
+      "year_quarter": "1998Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.7643",
+      "year_quarter": "1998Q4"
+    },
+    {
+      "fixed_30_year_rate": "6.8775",
+      "year_quarter": "1999Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.1815",
+      "year_quarter": "1999Q2"
+    },
+    {
+      "fixed_30_year_rate": "7.7862",
+      "year_quarter": "1999Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.8407",
+      "year_quarter": "1999Q4"
+    },
+    {
+      "fixed_30_year_rate": "8.2569",
+      "year_quarter": "2000Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.3162",
+      "year_quarter": "2000Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.02",
+      "year_quarter": "2000Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.6208",
+      "year_quarter": "2000Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.0069",
+      "year_quarter": "2001Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.13",
+      "year_quarter": "2001Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.9638",
+      "year_quarter": "2001Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.7708",
+      "year_quarter": "2001Q4"
+    },
+    {
+      "fixed_30_year_rate": "6.9715",
+      "year_quarter": "2002Q1"
+    },
+    {
+      "fixed_30_year_rate": "6.8131",
+      "year_quarter": "2002Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.2892",
+      "year_quarter": "2002Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.0754",
+      "year_quarter": "2002Q4"
+    },
+    {
+      "fixed_30_year_rate": "5.8408",
+      "year_quarter": "2003Q1"
+    },
+    {
+      "fixed_30_year_rate": "5.5069",
+      "year_quarter": "2003Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.0338",
+      "year_quarter": "2003Q3"
+    },
+    {
+      "fixed_30_year_rate": "5.9193",
+      "year_quarter": "2003Q4"
+    },
+    {
+      "fixed_30_year_rate": "5.5975",
+      "year_quarter": "2004Q1"
+    },
+    {
+      "fixed_30_year_rate": "6.1062",
+      "year_quarter": "2004Q2"
+    },
+    {
+      "fixed_30_year_rate": "5.8943",
+      "year_quarter": "2004Q3"
+    },
+    {
+      "fixed_30_year_rate": "5.7362",
+      "year_quarter": "2004Q4"
+    },
+    {
+      "fixed_30_year_rate": "5.7685",
+      "year_quarter": "2005Q1"
+    },
+    {
+      "fixed_30_year_rate": "5.7085",
+      "year_quarter": "2005Q2"
+    },
+    {
+      "fixed_30_year_rate": "5.7638",
+      "year_quarter": "2005Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.2262",
+      "year_quarter": "2005Q4"
+    },
+    {
+      "fixed_30_year_rate": "6.2469",
+      "year_quarter": "2006Q1"
+    },
+    {
+      "fixed_30_year_rate": "6.6023",
+      "year_quarter": "2006Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.56",
+      "year_quarter": "2006Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.2438",
+      "year_quarter": "2006Q4"
+    },
+    {
+      "fixed_30_year_rate": "6.2146",
+      "year_quarter": "2007Q1"
+    },
+    {
+      "fixed_30_year_rate": "6.3585",
+      "year_quarter": "2007Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.5515",
+      "year_quarter": "2007Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.2246",
+      "year_quarter": "2007Q4"
+    },
+    {
+      "fixed_30_year_rate": "5.8723",
+      "year_quarter": "2008Q1"
+    },
+    {
+      "fixed_30_year_rate": "6.0869",
+      "year_quarter": "2008Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.3223",
+      "year_quarter": "2008Q3"
+    },
+    {
+      "fixed_30_year_rate": "5.8414",
+      "year_quarter": "2008Q4"
+    },
+    {
+      "fixed_30_year_rate": "5.06",
+      "year_quarter": "2009Q1"
+    },
+    {
+      "fixed_30_year_rate": "5.0123",
+      "year_quarter": "2009Q2"
+    },
+    {
+      "fixed_30_year_rate": "5.1623",
+      "year_quarter": "2009Q3"
+    },
+    {
+      "fixed_30_year_rate": "4.9221",
+      "year_quarter": "2009Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.9958",
+      "year_quarter": "2010Q1"
+    },
+    {
+      "fixed_30_year_rate": "4.9223",
+      "year_quarter": "2010Q2"
+    },
+    {
+      "fixed_30_year_rate": "4.4471",
+      "year_quarter": "2010Q3"
+    },
+    {
+      "fixed_30_year_rate": "4.4362",
+      "year_quarter": "2010Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.8469",
+      "year_quarter": "2011Q1"
+    },
+    {
+      "fixed_30_year_rate": "4.6508",
+      "year_quarter": "2011Q2"
+    },
+    {
+      "fixed_30_year_rate": "4.2915",
+      "year_quarter": "2011Q3"
+    },
+    {
+      "fixed_30_year_rate": "4.0023",
+      "year_quarter": "2011Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.9223",
+      "year_quarter": "2012Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.7946",
+      "year_quarter": "2012Q2"
+    },
+    {
+      "fixed_30_year_rate": "3.5538",
+      "year_quarter": "2012Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.3592",
+      "year_quarter": "2012Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.4969",
+      "year_quarter": "2013Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.6723",
+      "year_quarter": "2013Q2"
+    },
+    {
+      "fixed_30_year_rate": "4.44",
+      "year_quarter": "2013Q3"
+    },
+    {
+      "fixed_30_year_rate": "4.2931",
+      "year_quarter": "2013Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.3646",
+      "year_quarter": "2014Q1"
+    },
+    {
+      "fixed_30_year_rate": "4.2277",
+      "year_quarter": "2014Q2"
+    },
+    {
+      "fixed_30_year_rate": "4.1354",
+      "year_quarter": "2014Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.9636",
+      "year_quarter": "2014Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.7167",
+      "year_quarter": "2015Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.8192",
+      "year_quarter": "2015Q2"
+    },
+    {
+      "fixed_30_year_rate": "3.9546",
+      "year_quarter": "2015Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.8979",
+      "year_quarter": "2015Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.7385",
+      "year_quarter": "2016Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.5892",
+      "year_quarter": "2016Q2"
+    },
+    {
+      "fixed_30_year_rate": "3.4462",
+      "year_quarter": "2016Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.8423",
+      "year_quarter": "2016Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.1731",
+      "year_quarter": "2017Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.98",
+      "year_quarter": "2017Q2"
+    },
+    {
+      "fixed_30_year_rate": "3.8838",
+      "year_quarter": "2017Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.9223",
+      "year_quarter": "2017Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.2823",
+      "year_quarter": "2018Q1"
+    },
+    {
+      "fixed_30_year_rate": "4.5446",
+      "year_quarter": "2018Q2"
+    },
+    {
+      "fixed_30_year_rate": "4.5669",
+      "year_quarter": "2018Q3"
+    },
+    {
+      "fixed_30_year_rate": "4.7846",
+      "year_quarter": "2018Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.3738",
+      "year_quarter": "2019Q1"
+    },
+    {
+      "fixed_30_year_rate": "4.0108",
+      "year_quarter": "2019Q2"
+    },
+    {
+      "fixed_30_year_rate": "3.6585",
+      "year_quarter": "2019Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.7",
+      "year_quarter": "2019Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.5215",
+      "year_quarter": "2020Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.2392",
+      "year_quarter": "2020Q2"
+    },
+    {
+      "fixed_30_year_rate": "2.9523",
+      "year_quarter": "2020Q3"
+    },
+    {
+      "fixed_30_year_rate": "2.7607",
+      "year_quarter": "2020Q4"
+    },
+    {
+      "fixed_30_year_rate": "2.8758",
+      "year_quarter": "2021Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.0038",
+      "year_quarter": "2021Q2"
+    },
+    {
+      "fixed_30_year_rate": "2.8721",
+      "year_quarter": "2021Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.0792",
+      "year_quarter": "2021Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.8223",
+      "year_quarter": "2022Q1"
+    },
+    {
+      "fixed_30_year_rate": "5.2662",
+      "year_quarter": "2022Q2"
+    },
+    {
+      "fixed_30_year_rate": "5.6231",
+      "year_quarter": "2022Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.6646",
+      "year_quarter": "2022Q4"
+    },
+    {
+      "fixed_30_year_rate": "6.3723",
+      "year_quarter": "2023Q1"
+    }
+  ],
+  "quarterly_house_price": [
+    {
+      "midwestern_household_mean_income": 41800,
+      "northeastern_household_mean_income": 47300,
+      "southern_household_mean_income": 38000,
+      "us_household_mean_income": 40900,
+      "western_household_mean_income": 42300,
+      "year_quarter": "1975Q1"
+    },
+    {
+      "midwestern_household_mean_income": 44000,
+      "northeastern_household_mean_income": 46400,
+      "southern_household_mean_income": 39800,
+      "us_household_mean_income": 42600,
+      "western_household_mean_income": 43600,
+      "year_quarter": "1975Q2"
+    },
+    {
+      "midwestern_household_mean_income": 42900,
+      "northeastern_household_mean_income": 47400,
+      "southern_household_mean_income": 39200,
+      "us_household_mean_income": 42200,
+      "western_household_mean_income": 43600,
+      "year_quarter": "1975Q3"
+    },
+    {
+      "midwestern_household_mean_income": 44500,
+      "northeastern_household_mean_income": 47700,
+      "southern_household_mean_income": 41300,
+      "us_household_mean_income": 44400,
+      "western_household_mean_income": 47400,
+      "year_quarter": "1975Q4"
+    },
+    {
+      "midwestern_household_mean_income": 45100,
+      "northeastern_household_mean_income": 48600,
+      "southern_household_mean_income": 43000,
+      "us_household_mean_income": 46000,
+      "western_household_mean_income": 49200,
+      "year_quarter": "1976Q1"
+    },
+    {
+      "midwestern_household_mean_income": 49400,
+      "northeastern_household_mean_income": 48100,
+      "southern_household_mean_income": 43700,
+      "us_household_mean_income": 47800,
+      "western_household_mean_income": 51600,
+      "year_quarter": "1976Q2"
+    },
+    {
+      "midwestern_household_mean_income": 47800,
+      "northeastern_household_mean_income": 50700,
+      "southern_household_mean_income": 44200,
+      "us_household_mean_income": 48100,
+      "western_household_mean_income": 52000,
+      "year_quarter": "1976Q3"
+    },
+    {
+      "midwestern_household_mean_income": 52600,
+      "northeastern_household_mean_income": 53100,
+      "southern_household_mean_income": 44200,
+      "us_household_mean_income": 50300,
+      "western_household_mean_income": 54900,
+      "year_quarter": "1976Q4"
+    },
+    {
+      "midwestern_household_mean_income": 51500,
+      "northeastern_household_mean_income": 54000,
+      "southern_household_mean_income": 45100,
+      "us_household_mean_income": 51600,
+      "western_household_mean_income": 57900,
+      "year_quarter": "1977Q1"
+    },
+    {
+      "midwestern_household_mean_income": 54100,
+      "northeastern_household_mean_income": 55800,
+      "southern_household_mean_income": 48300,
+      "us_household_mean_income": 54300,
+      "western_household_mean_income": 61200,
+      "year_quarter": "1977Q2"
+    },
+    {
+      "midwestern_household_mean_income": 54800,
+      "northeastern_household_mean_income": 52900,
+      "southern_household_mean_income": 48300,
+      "us_household_mean_income": 54000,
+      "western_household_mean_income": 60700,
+      "year_quarter": "1977Q3"
+    },
+    {
+      "midwestern_household_mean_income": 60900,
+      "northeastern_household_mean_income": 55700,
+      "southern_household_mean_income": 50400,
+      "us_household_mean_income": 57500,
+      "western_household_mean_income": 65300,
+      "year_quarter": "1977Q4"
+    },
+    {
+      "midwestern_household_mean_income": 59600,
+      "northeastern_household_mean_income": 61000,
+      "southern_household_mean_income": 52400,
+      "us_household_mean_income": 59300,
+      "western_household_mean_income": 66800,
+      "year_quarter": "1978Q1"
+    },
+    {
+      "midwestern_household_mean_income": 63400,
+      "northeastern_household_mean_income": 60800,
+      "southern_household_mean_income": 54800,
+      "us_household_mean_income": 61600,
+      "western_household_mean_income": 69600,
+      "year_quarter": "1978Q2"
+    },
+    {
+      "midwestern_household_mean_income": 66000,
+      "northeastern_household_mean_income": 64000,
+      "southern_household_mean_income": 56800,
+      "us_household_mean_income": 63500,
+      "western_household_mean_income": 70000,
+      "year_quarter": "1978Q3"
+    },
+    {
+      "midwestern_household_mean_income": 68400,
+      "northeastern_household_mean_income": 65400,
+      "southern_household_mean_income": 58600,
+      "us_household_mean_income": 66400,
+      "western_household_mean_income": 76200,
+      "year_quarter": "1978Q4"
+    },
+    {
+      "midwestern_household_mean_income": 66200,
+      "northeastern_household_mean_income": 69300,
+      "southern_household_mean_income": 60900,
+      "us_household_mean_income": 68300,
+      "western_household_mean_income": 77000,
+      "year_quarter": "1979Q1"
+    },
+    {
+      "midwestern_household_mean_income": 75800,
+      "northeastern_household_mean_income": 73400,
+      "southern_household_mean_income": 64000,
+      "us_household_mean_income": 72400,
+      "western_household_mean_income": 82000,
+      "year_quarter": "1979Q2"
+    },
+    {
+      "midwestern_household_mean_income": 73700,
+      "northeastern_household_mean_income": 70600,
+      "southern_household_mean_income": 66300,
+      "us_household_mean_income": 74200,
+      "western_household_mean_income": 86300,
+      "year_quarter": "1979Q3"
+    },
+    {
+      "midwestern_household_mean_income": 76100,
+      "northeastern_household_mean_income": 74900,
+      "southern_household_mean_income": 62900,
+      "us_household_mean_income": 72700,
+      "western_household_mean_income": 86200,
+      "year_quarter": "1979Q4"
+    },
+    {
+      "midwestern_household_mean_income": 73300,
+      "northeastern_household_mean_income": 73400,
+      "southern_household_mean_income": 65800,
+      "us_household_mean_income": 73600,
+      "western_household_mean_income": 86800,
+      "year_quarter": "1980Q1"
+    },
+    {
+      "midwestern_household_mean_income": 73600,
+      "northeastern_household_mean_income": 74900,
+      "southern_household_mean_income": 66800,
+      "us_household_mean_income": 74400,
+      "western_household_mean_income": 90000,
+      "year_quarter": "1980Q2"
+    },
+    {
+      "midwestern_household_mean_income": 74400,
+      "northeastern_household_mean_income": 83800,
+      "southern_household_mean_income": 71300,
+      "us_household_mean_income": 77500,
+      "western_household_mean_income": 87600,
+      "year_quarter": "1980Q3"
+    },
+    {
+      "midwestern_household_mean_income": 76600,
+      "northeastern_household_mean_income": 85800,
+      "southern_household_mean_income": 72500,
+      "us_household_mean_income": 80000,
+      "western_household_mean_income": 95100,
+      "year_quarter": "1980Q4"
+    },
+    {
+      "midwestern_household_mean_income": 88600,
+      "northeastern_household_mean_income": 85600,
+      "southern_household_mean_income": 72500,
+      "us_household_mean_income": 80900,
+      "western_household_mean_income": 92400,
+      "year_quarter": "1981Q1"
+    },
+    {
+      "midwestern_household_mean_income": 82700,
+      "northeastern_household_mean_income": 95100,
+      "southern_household_mean_income": 75900,
+      "us_household_mean_income": 84300,
+      "western_household_mean_income": 97100,
+      "year_quarter": "1981Q2"
+    },
+    {
+      "midwestern_household_mean_income": 78900,
+      "northeastern_household_mean_income": 84000,
+      "southern_household_mean_income": 77800,
+      "us_household_mean_income": 83800,
+      "western_household_mean_income": 97400,
+      "year_quarter": "1981Q3"
+    },
+    {
+      "midwestern_household_mean_income": 78800,
+      "northeastern_household_mean_income": 87100,
+      "southern_household_mean_income": 77600,
+      "us_household_mean_income": 83700,
+      "western_household_mean_income": 97400,
+      "year_quarter": "1981Q4"
+    },
+    {
+      "midwestern_household_mean_income": 86100,
+      "northeastern_household_mean_income": 79400,
+      "southern_household_mean_income": 76000,
+      "us_household_mean_income": 81200,
+      "western_household_mean_income": 92100,
+      "year_quarter": "1982Q1"
+    },
+    {
+      "midwestern_household_mean_income": 84200,
+      "northeastern_household_mean_income": 93700,
+      "southern_household_mean_income": 79800,
+      "us_household_mean_income": 85700,
+      "western_household_mean_income": 96300,
+      "year_quarter": "1982Q2"
+    },
+    {
+      "midwestern_household_mean_income": 85900,
+      "northeastern_household_mean_income": 91200,
+      "southern_household_mean_income": 79600,
+      "us_household_mean_income": 83900,
+      "western_household_mean_income": 88500,
+      "year_quarter": "1982Q3"
+    },
+    {
+      "midwestern_household_mean_income": 95300,
+      "northeastern_household_mean_income": 90200,
+      "southern_household_mean_income": 77500,
+      "us_household_mean_income": 84600,
+      "western_household_mean_income": 93600,
+      "year_quarter": "1982Q4"
+    },
+    {
+      "midwestern_household_mean_income": 99100,
+      "northeastern_household_mean_income": 91800,
+      "southern_household_mean_income": 79900,
+      "us_household_mean_income": 86700,
+      "western_household_mean_income": 93600,
+      "year_quarter": "1983Q1"
+    },
+    {
+      "midwestern_household_mean_income": 97800,
+      "northeastern_household_mean_income": 93300,
+      "southern_household_mean_income": 82700,
+      "us_household_mean_income": 89100,
+      "western_household_mean_income": 95300,
+      "year_quarter": "1983Q2"
+    },
+    {
+      "midwestern_household_mean_income": 99600,
+      "northeastern_household_mean_income": 98600,
+      "southern_household_mean_income": 84200,
+      "us_household_mean_income": 92500,
+      "western_household_mean_income": 103400,
+      "year_quarter": "1983Q3"
+    },
+    {
+      "midwestern_household_mean_income": 93800,
+      "northeastern_household_mean_income": 102000,
+      "southern_household_mean_income": 84700,
+      "us_household_mean_income": 90800,
+      "western_household_mean_income": 97900,
+      "year_quarter": "1983Q4"
+    },
+    {
+      "midwestern_household_mean_income": 99300,
+      "northeastern_household_mean_income": 98800,
+      "southern_household_mean_income": 86500,
+      "us_household_mean_income": 94700,
+      "western_household_mean_income": 106000,
+      "year_quarter": "1984Q1"
+    },
+    {
+      "midwestern_household_mean_income": 109600,
+      "northeastern_household_mean_income": 114900,
+      "southern_household_mean_income": 85400,
+      "us_household_mean_income": 99200,
+      "western_household_mean_income": 110000,
+      "year_quarter": "1984Q2"
+    },
+    {
+      "midwestern_household_mean_income": 113700,
+      "northeastern_household_mean_income": 108900,
+      "southern_household_mean_income": 85200,
+      "us_household_mean_income": 98500,
+      "western_household_mean_income": 109200,
+      "year_quarter": "1984Q3"
+    },
+    {
+      "midwestern_household_mean_income": 108300,
+      "northeastern_household_mean_income": 107100,
+      "southern_household_mean_income": 85300,
+      "us_household_mean_income": 97800,
+      "western_household_mean_income": 111600,
+      "year_quarter": "1984Q4"
+    },
+    {
+      "midwestern_household_mean_income": 99900,
+      "northeastern_household_mean_income": 113200,
+      "southern_household_mean_income": 86800,
+      "us_household_mean_income": 98500,
+      "western_household_mean_income": 112800,
+      "year_quarter": "1985Q1"
+    },
+    {
+      "midwestern_household_mean_income": 93400,
+      "northeastern_household_mean_income": 118100,
+      "southern_household_mean_income": 89700,
+      "us_household_mean_income": 100500,
+      "western_household_mean_income": 113000,
+      "year_quarter": "1985Q2"
+    },
+    {
+      "midwestern_household_mean_income": 90900,
+      "northeastern_household_mean_income": 126900,
+      "southern_household_mean_income": 88500,
+      "us_household_mean_income": 100500,
+      "western_household_mean_income": 108700,
+      "year_quarter": "1985Q3"
+    },
+    {
+      "midwestern_household_mean_income": 99800,
+      "northeastern_household_mean_income": 125000,
+      "southern_household_mean_income": 91100,
+      "us_household_mean_income": 103800,
+      "western_household_mean_income": 113100,
+      "year_quarter": "1985Q4"
+    },
+    {
+      "midwestern_household_mean_income": 98400,
+      "northeastern_household_mean_income": 142600,
+      "southern_household_mean_income": 92500,
+      "us_household_mean_income": 106300,
+      "western_household_mean_income": 111600,
+      "year_quarter": "1986Q1"
+    },
+    {
+      "midwestern_household_mean_income": 103500,
+      "northeastern_household_mean_income": 150700,
+      "southern_household_mean_income": 93900,
+      "us_household_mean_income": 112000,
+      "western_household_mean_income": 117700,
+      "year_quarter": "1986Q2"
+    },
+    {
+      "midwestern_household_mean_income": 102500,
+      "northeastern_household_mean_income": 155100,
+      "southern_household_mean_income": 96700,
+      "us_household_mean_income": 114400,
+      "western_household_mean_income": 121800,
+      "year_quarter": "1986Q3"
+    },
+    {
+      "midwestern_household_mean_income": 106800,
+      "northeastern_household_mean_income": 157400,
+      "southern_household_mean_income": 98000,
+      "us_household_mean_income": 115600,
+      "western_household_mean_income": 116400,
+      "year_quarter": "1986Q4"
+    },
+    {
+      "midwestern_household_mean_income": 110700,
+      "northeastern_household_mean_income": 164200,
+      "southern_household_mean_income": 102300,
+      "us_household_mean_income": 120800,
+      "western_household_mean_income": 128300,
+      "year_quarter": "1987Q1"
+    },
+    {
+      "midwestern_household_mean_income": 113300,
+      "northeastern_household_mean_income": 180700,
+      "southern_household_mean_income": 103600,
+      "us_household_mean_income": 126100,
+      "western_household_mean_income": 134700,
+      "year_quarter": "1987Q2"
+    },
+    {
+      "midwestern_household_mean_income": 113800,
+      "northeastern_household_mean_income": 176400,
+      "southern_household_mean_income": 108000,
+      "us_household_mean_income": 129900,
+      "western_household_mean_income": 139300,
+      "year_quarter": "1987Q3"
+    },
+    {
+      "midwestern_household_mean_income": 126600,
+      "northeastern_household_mean_income": 167800,
+      "southern_household_mean_income": 111200,
+      "us_household_mean_income": 133500,
+      "western_household_mean_income": 139900,
+      "year_quarter": "1987Q4"
+    },
+    {
+      "midwestern_household_mean_income": 124200,
+      "northeastern_household_mean_income": 185000,
+      "southern_household_mean_income": 112900,
+      "us_household_mean_income": 137900,
+      "western_household_mean_income": 154900,
+      "year_quarter": "1988Q1"
+    },
+    {
+      "midwestern_household_mean_income": 126300,
+      "northeastern_household_mean_income": 177300,
+      "southern_household_mean_income": 109900,
+      "us_household_mean_income": 134800,
+      "western_household_mean_income": 150200,
+      "year_quarter": "1988Q2"
+    },
+    {
+      "midwestern_household_mean_income": 119600,
+      "northeastern_household_mean_income": 179800,
+      "southern_household_mean_income": 120700,
+      "us_household_mean_income": 141500,
+      "western_household_mean_income": 160900,
+      "year_quarter": "1988Q3"
+    },
+    {
+      "midwestern_household_mean_income": 122100,
+      "northeastern_household_mean_income": 182600,
+      "southern_household_mean_income": 115600,
+      "us_household_mean_income": 140400,
+      "western_household_mean_income": 158000,
+      "year_quarter": "1988Q4"
+    },
+    {
+      "midwestern_household_mean_income": 128900,
+      "northeastern_household_mean_income": 185500,
+      "southern_household_mean_income": 118300,
+      "us_household_mean_income": 144300,
+      "western_household_mean_income": 164300,
+      "year_quarter": "1989Q1"
+    },
+    {
+      "midwestern_household_mean_income": 133900,
+      "northeastern_household_mean_income": 178400,
+      "southern_household_mean_income": 121100,
+      "us_household_mean_income": 146800,
+      "western_household_mean_income": 174100,
+      "year_quarter": "1989Q2"
+    },
+    {
+      "midwestern_household_mean_income": 122200,
+      "northeastern_household_mean_income": 202000,
+      "southern_household_mean_income": 119800,
+      "us_household_mean_income": 150200,
+      "western_household_mean_income": 181700,
+      "year_quarter": "1989Q3"
+    },
+    {
+      "midwestern_household_mean_income": 135400,
+      "northeastern_household_mean_income": 188600,
+      "southern_household_mean_income": 125900,
+      "us_household_mean_income": 151200,
+      "western_household_mean_income": 174200,
+      "year_quarter": "1989Q4"
+    },
+    {
+      "midwestern_household_mean_income": 141300,
+      "northeastern_household_mean_income": 182700,
+      "southern_household_mean_income": 122300,
+      "us_household_mean_income": 149500,
+      "western_household_mean_income": 176800,
+      "year_quarter": "1990Q1"
+    },
+    {
+      "midwestern_household_mean_income": 135900,
+      "northeastern_household_mean_income": 185100,
+      "southern_household_mean_income": 128700,
+      "us_household_mean_income": 151200,
+      "western_household_mean_income": 176900,
+      "year_quarter": "1990Q2"
+    },
+    {
+      "midwestern_household_mean_income": 121500,
+      "northeastern_household_mean_income": 192900,
+      "southern_household_mean_income": 119100,
+      "us_household_mean_income": 145500,
+      "western_household_mean_income": 185500,
+      "year_quarter": "1990Q3"
+    },
+    {
+      "midwestern_household_mean_income": 126400,
+      "northeastern_household_mean_income": 200200,
+      "southern_household_mean_income": 119600,
+      "us_household_mean_income": 150100,
+      "western_household_mean_income": 185400,
+      "year_quarter": "1990Q4"
+    },
+    {
+      "midwestern_household_mean_income": 143200,
+      "northeastern_household_mean_income": 188100,
+      "southern_household_mean_income": 122600,
+      "us_household_mean_income": 151100,
+      "western_household_mean_income": 186500,
+      "year_quarter": "1991Q1"
+    },
+    {
+      "midwestern_household_mean_income": 131500,
+      "northeastern_household_mean_income": 197700,
+      "southern_household_mean_income": 124700,
+      "us_household_mean_income": 148200,
+      "western_household_mean_income": 176200,
+      "year_quarter": "1991Q2"
+    },
+    {
+      "midwestern_household_mean_income": 129000,
+      "northeastern_household_mean_income": 183900,
+      "southern_household_mean_income": 122000,
+      "us_household_mean_income": 145400,
+      "western_household_mean_income": 175800,
+      "year_quarter": "1991Q3"
+    },
+    {
+      "midwestern_household_mean_income": 135100,
+      "northeastern_household_mean_income": 188200,
+      "southern_household_mean_income": 123100,
+      "us_household_mean_income": 144400,
+      "western_household_mean_income": 164000,
+      "year_quarter": "1991Q4"
+    },
+    {
+      "midwestern_household_mean_income": 131300,
+      "northeastern_household_mean_income": 209000,
+      "southern_household_mean_income": 130900,
+      "us_household_mean_income": 144500,
+      "western_household_mean_income": 156500,
+      "year_quarter": "1992Q1"
+    },
+    {
+      "midwestern_household_mean_income": 141500,
+      "northeastern_household_mean_income": 197800,
+      "southern_household_mean_income": 126000,
+      "us_household_mean_income": 145300,
+      "western_household_mean_income": 160500,
+      "year_quarter": "1992Q2"
+    },
+    {
+      "midwestern_household_mean_income": 130600,
+      "northeastern_household_mean_income": 189000,
+      "southern_household_mean_income": 121200,
+      "us_household_mean_income": 141700,
+      "western_household_mean_income": 161000,
+      "year_quarter": "1992Q3"
+    },
+    {
+      "midwestern_household_mean_income": 142600,
+      "northeastern_household_mean_income": 191200,
+      "southern_household_mean_income": 131600,
+      "us_household_mean_income": 147200,
+      "western_household_mean_income": 156300,
+      "year_quarter": "1992Q4"
+    },
+    {
+      "midwestern_household_mean_income": 142500,
+      "northeastern_household_mean_income": 175200,
+      "southern_household_mean_income": 131200,
+      "us_household_mean_income": 144700,
+      "western_household_mean_income": 160400,
+      "year_quarter": "1993Q1"
+    },
+    {
+      "midwestern_household_mean_income": 140700,
+      "northeastern_household_mean_income": 185000,
+      "southern_household_mean_income": 136100,
+      "us_household_mean_income": 148900,
+      "western_household_mean_income": 160300,
+      "year_quarter": "1993Q2"
+    },
+    {
+      "midwestern_household_mean_income": 150900,
+      "northeastern_household_mean_income": 178200,
+      "southern_household_mean_income": 131700,
+      "us_household_mean_income": 148000,
+      "western_household_mean_income": 163500,
+      "year_quarter": "1993Q3"
+    },
+    {
+      "midwestern_household_mean_income": 138800,
+      "northeastern_household_mean_income": 198200,
+      "southern_household_mean_income": 132700,
+      "us_household_mean_income": 148300,
+      "western_household_mean_income": 164300,
+      "year_quarter": "1993Q4"
+    },
+    {
+      "midwestern_household_mean_income": 151000,
+      "northeastern_household_mean_income": 191000,
+      "southern_household_mean_income": 138300,
+      "us_household_mean_income": 153600,
+      "western_household_mean_income": 169300,
+      "year_quarter": "1994Q1"
+    },
+    {
+      "midwestern_household_mean_income": 150600,
+      "northeastern_household_mean_income": 202400,
+      "southern_household_mean_income": 138700,
+      "us_household_mean_income": 154200,
+      "western_household_mean_income": 167000,
+      "year_quarter": "1994Q2"
+    },
+    {
+      "midwestern_household_mean_income": 152900,
+      "northeastern_household_mean_income": 200700,
+      "southern_household_mean_income": 133300,
+      "us_household_mean_income": 152800,
+      "western_household_mean_income": 165000,
+      "year_quarter": "1994Q3"
+    },
+    {
+      "midwestern_household_mean_income": 153500,
+      "northeastern_household_mean_income": 205500,
+      "southern_household_mean_income": 133300,
+      "us_household_mean_income": 156100,
+      "western_household_mean_income": 176100,
+      "year_quarter": "1994Q4"
+    },
+    {
+      "midwestern_household_mean_income": 153100,
+      "northeastern_household_mean_income": 217100,
+      "southern_household_mean_income": 135900,
+      "us_household_mean_income": 153500,
+      "western_household_mean_income": 164600,
+      "year_quarter": "1995Q1"
+    },
+    {
+      "midwestern_household_mean_income": 160500,
+      "northeastern_household_mean_income": 209400,
+      "southern_household_mean_income": 140500,
+      "us_household_mean_income": 158900,
+      "western_household_mean_income": 169300,
+      "year_quarter": "1995Q2"
+    },
+    {
+      "midwestern_household_mean_income": 152500,
+      "northeastern_household_mean_income": 217100,
+      "southern_household_mean_income": 140800,
+      "us_household_mean_income": 157700,
+      "western_household_mean_income": 173600,
+      "year_quarter": "1995Q3"
+    },
+    {
+      "midwestern_household_mean_income": 160000,
+      "northeastern_household_mean_income": 217500,
+      "southern_household_mean_income": 144200,
+      "us_household_mean_income": 160900,
+      "western_household_mean_income": 169500,
+      "year_quarter": "1995Q4"
+    },
+    {
+      "midwestern_household_mean_income": 160200,
+      "northeastern_household_mean_income": 217500,
+      "southern_household_mean_income": 143800,
+      "us_household_mean_income": 161100,
+      "western_household_mean_income": 177200,
+      "year_quarter": "1996Q1"
+    },
+    {
+      "midwestern_household_mean_income": 155900,
+      "northeastern_household_mean_income": 238400,
+      "southern_household_mean_income": 140900,
+      "us_household_mean_income": 166000,
+      "western_household_mean_income": 189400,
+      "year_quarter": "1996Q2"
+    },
+    {
+      "midwestern_household_mean_income": 153500,
+      "northeastern_household_mean_income": 211600,
+      "southern_household_mean_income": 141000,
+      "us_household_mean_income": 164000,
+      "western_household_mean_income": 187900,
+      "year_quarter": "1996Q3"
+    },
+    {
+      "midwestern_household_mean_income": 162700,
+      "northeastern_household_mean_income": 245400,
+      "southern_household_mean_income": 146000,
+      "us_household_mean_income": 171000,
+      "western_household_mean_income": 190800,
+      "year_quarter": "1996Q4"
+    },
+    {
+      "midwestern_household_mean_income": 164400,
+      "northeastern_household_mean_income": 235900,
+      "southern_household_mean_income": 147700,
+      "us_household_mean_income": 172200,
+      "western_household_mean_income": 193800,
+      "year_quarter": "1997Q1"
+    },
+    {
+      "midwestern_household_mean_income": 173000,
+      "northeastern_household_mean_income": 239300,
+      "southern_household_mean_income": 151500,
+      "us_household_mean_income": 177200,
+      "western_household_mean_income": 199500,
+      "year_quarter": "1997Q2"
+    },
+    {
+      "midwestern_household_mean_income": 173200,
+      "northeastern_household_mean_income": 229800,
+      "southern_household_mean_income": 150600,
+      "us_household_mean_income": 174700,
+      "western_household_mean_income": 195800,
+      "year_quarter": "1997Q3"
+    },
+    {
+      "midwestern_household_mean_income": 167900,
+      "northeastern_household_mean_income": 231400,
+      "southern_household_mean_income": 149600,
+      "us_household_mean_income": 175400,
+      "western_household_mean_income": 203500,
+      "year_quarter": "1997Q4"
+    },
+    {
+      "midwestern_household_mean_income": 181100,
+      "northeastern_household_mean_income": 235000,
+      "southern_household_mean_income": 157000,
+      "us_household_mean_income": 180000,
+      "western_household_mean_income": 197200,
+      "year_quarter": "1998Q1"
+    },
+    {
+      "midwestern_household_mean_income": 172900,
+      "northeastern_household_mean_income": 242800,
+      "southern_household_mean_income": 155500,
+      "us_household_mean_income": 178800,
+      "western_household_mean_income": 197400,
+      "year_quarter": "1998Q2"
+    },
+    {
+      "midwestern_household_mean_income": 182100,
+      "northeastern_household_mean_income": 251600,
+      "southern_household_mean_income": 157500,
+      "us_household_mean_income": 184300,
+      "western_household_mean_income": 207900,
+      "year_quarter": "1998Q3"
+    },
+    {
+      "midwestern_household_mean_income": 175800,
+      "northeastern_household_mean_income": 232600,
+      "southern_household_mean_income": 162800,
+      "us_household_mean_income": 181500,
+      "western_household_mean_income": 199300,
+      "year_quarter": "1998Q4"
+    },
+    {
+      "midwestern_household_mean_income": 183500,
+      "northeastern_household_mean_income": 228300,
+      "southern_household_mean_income": 166400,
+      "us_household_mean_income": 189100,
+      "western_household_mean_income": 217400,
+      "year_quarter": "1999Q1"
+    },
+    {
+      "midwestern_household_mean_income": 177300,
+      "northeastern_household_mean_income": 248300,
+      "southern_household_mean_income": 173500,
+      "us_household_mean_income": 191800,
+      "western_household_mean_income": 215400,
+      "year_quarter": "1999Q2"
+    },
+    {
+      "midwestern_household_mean_income": 190600,
+      "northeastern_household_mean_income": 239800,
+      "southern_household_mean_income": 167800,
+      "us_household_mean_income": 193000,
+      "western_household_mean_income": 218000,
+      "year_quarter": "1999Q3"
+    },
+    {
+      "midwestern_household_mean_income": 192000,
+      "northeastern_household_mean_income": 273900,
+      "southern_household_mean_income": 174800,
+      "us_household_mean_income": 204800,
+      "western_household_mean_income": 241200,
+      "year_quarter": "1999Q4"
+    },
+    {
+      "midwestern_household_mean_income": 188900,
+      "northeastern_household_mean_income": 267300,
+      "southern_household_mean_income": 176400,
+      "us_household_mean_income": 202900,
+      "western_household_mean_income": 237500,
+      "year_quarter": "2000Q1"
+    },
+    {
+      "midwestern_household_mean_income": 197700,
+      "northeastern_household_mean_income": 254800,
+      "southern_household_mean_income": 174700,
+      "us_household_mean_income": 202400,
+      "western_household_mean_income": 237400,
+      "year_quarter": "2000Q2"
+    },
+    {
+      "midwestern_household_mean_income": 189900,
+      "northeastern_household_mean_income": 296700,
+      "southern_household_mean_income": 179200,
+      "us_household_mean_income": 204100,
+      "western_household_mean_income": 228300,
+      "year_quarter": "2000Q3"
+    },
+    {
+      "midwestern_household_mean_income": 212700,
+      "northeastern_household_mean_income": 280300,
+      "southern_household_mean_income": 176300,
+      "us_household_mean_income": 212100,
+      "western_household_mean_income": 253200,
+      "year_quarter": "2000Q4"
+    },
+    {
+      "midwestern_household_mean_income": 197700,
+      "northeastern_household_mean_income": 297600,
+      "southern_household_mean_income": 185000,
+      "us_household_mean_income": 211000,
+      "western_household_mean_income": 242900,
+      "year_quarter": "2001Q1"
+    },
+    {
+      "midwestern_household_mean_income": 198200,
+      "northeastern_household_mean_income": 301200,
+      "southern_household_mean_income": 182400,
+      "us_household_mean_income": 211200,
+      "western_household_mean_income": 247100,
+      "year_quarter": "2001Q2"
+    },
+    {
+      "midwestern_household_mean_income": 190500,
+      "northeastern_household_mean_income": 283600,
+      "southern_household_mean_income": 180600,
+      "us_household_mean_income": 207800,
+      "western_household_mean_income": 247500,
+      "year_quarter": "2001Q3"
+    },
+    {
+      "midwestern_household_mean_income": 205300,
+      "northeastern_household_mean_income": 294700,
+      "southern_household_mean_income": 184600,
+      "us_household_mean_income": 214200,
+      "western_household_mean_income": 257200,
+      "year_quarter": "2001Q4"
+    },
+    {
+      "midwestern_household_mean_income": 214500,
+      "northeastern_household_mean_income": 305600,
+      "southern_household_mean_income": 192400,
+      "us_household_mean_income": 227600,
+      "western_household_mean_income": 274500,
+      "year_quarter": "2002Q1"
+    },
+    {
+      "midwestern_household_mean_income": 198700,
+      "northeastern_household_mean_income": 288900,
+      "southern_household_mean_income": 199200,
+      "us_household_mean_income": 227600,
+      "western_household_mean_income": 275100,
+      "year_quarter": "2002Q2"
+    },
+    {
+      "midwestern_household_mean_income": 201200,
+      "northeastern_household_mean_income": 297100,
+      "southern_household_mean_income": 185600,
+      "us_household_mean_income": 219100,
+      "western_household_mean_income": 272100,
+      "year_quarter": "2002Q3"
+    },
+    {
+      "midwestern_household_mean_income": 210500,
+      "northeastern_household_mean_income": 320200,
+      "southern_household_mean_income": 202900,
+      "us_household_mean_income": 232500,
+      "western_household_mean_income": 280000,
+      "year_quarter": "2002Q4"
+    },
+    {
+      "midwestern_household_mean_income": 213700,
+      "northeastern_household_mean_income": 284400,
+      "southern_household_mean_income": 202800,
+      "us_household_mean_income": 233100,
+      "western_household_mean_income": 283500,
+      "year_quarter": "2003Q1"
+    },
+    {
+      "midwestern_household_mean_income": 206500,
+      "northeastern_household_mean_income": 315200,
+      "southern_household_mean_income": 205600,
+      "us_household_mean_income": 241000,
+      "western_household_mean_income": 293800,
+      "year_quarter": "2003Q2"
+    },
+    {
+      "midwestern_household_mean_income": 218500,
+      "northeastern_household_mean_income": 313400,
+      "southern_household_mean_income": 204200,
+      "us_household_mean_income": 248100,
+      "western_household_mean_income": 324800,
+      "year_quarter": "2003Q3"
+    },
+    {
+      "midwestern_household_mean_income": 222500,
+      "northeastern_household_mean_income": 350900,
+      "southern_household_mean_income": 210900,
+      "us_household_mean_income": 256000,
+      "western_household_mean_income": 325300,
+      "year_quarter": "2003Q4"
+    },
+    {
+      "midwestern_household_mean_income": 238400,
+      "northeastern_household_mean_income": 363900,
+      "southern_household_mean_income": 221800,
+      "us_household_mean_income": 262900,
+      "western_household_mean_income": 317500,
+      "year_quarter": "2004Q1"
+    },
+    {
+      "midwestern_household_mean_income": 239800,
+      "northeastern_household_mean_income": 333400,
+      "southern_household_mean_income": 214900,
+      "us_household_mean_income": 265300,
+      "western_household_mean_income": 337900,
+      "year_quarter": "2004Q2"
+    },
+    {
+      "midwestern_household_mean_income": 237900,
+      "northeastern_household_mean_income": 384100,
+      "southern_household_mean_income": 229800,
+      "us_household_mean_income": 274000,
+      "western_household_mean_income": 345500,
+      "year_quarter": "2004Q3"
+    },
+    {
+      "midwestern_household_mean_income": 239400,
+      "northeastern_household_mean_income": 404400,
+      "southern_household_mean_income": 239500,
+      "us_household_mean_income": 286300,
+      "western_household_mean_income": 362500,
+      "year_quarter": "2004Q4"
+    },
+    {
+      "midwestern_household_mean_income": 240400,
+      "northeastern_household_mean_income": 396600,
+      "southern_household_mean_income": 242500,
+      "us_household_mean_income": 288500,
+      "western_household_mean_income": 374200,
+      "year_quarter": "2005Q1"
+    },
+    {
+      "midwestern_household_mean_income": 239700,
+      "northeastern_household_mean_income": 373000,
+      "southern_household_mean_income": 236600,
+      "us_household_mean_income": 287800,
+      "western_household_mean_income": 386200,
+      "year_quarter": "2005Q2"
+    },
+    {
+      "midwestern_household_mean_income": 239400,
+      "northeastern_household_mean_income": 396500,
+      "southern_household_mean_income": 241600,
+      "us_household_mean_income": 294600,
+      "western_household_mean_income": 396200,
+      "year_quarter": "2005Q3"
+    },
+    {
+      "midwestern_household_mean_income": 261800,
+      "northeastern_household_mean_income": 426300,
+      "southern_household_mean_income": 240300,
+      "us_household_mean_income": 294200,
+      "western_household_mean_income": 387900,
+      "year_quarter": "2005Q4"
+    },
+    {
+      "midwestern_household_mean_income": 259200,
+      "northeastern_household_mean_income": 408300,
+      "southern_household_mean_income": 258500,
+      "us_household_mean_income": 305300,
+      "western_household_mean_income": 399200,
+      "year_quarter": "2006Q1"
+    },
+    {
+      "midwestern_household_mean_income": 242300,
+      "northeastern_household_mean_income": 431200,
+      "southern_household_mean_income": 250700,
+      "us_household_mean_income": 302600,
+      "western_household_mean_income": 413200,
+      "year_quarter": "2006Q2"
+    },
+    {
+      "midwestern_household_mean_income": 257200,
+      "northeastern_household_mean_income": 454100,
+      "southern_household_mean_income": 256200,
+      "us_household_mean_income": 308100,
+      "western_household_mean_income": 409300,
+      "year_quarter": "2006Q3"
+    },
+    {
+      "midwestern_household_mean_income": 264600,
+      "northeastern_household_mean_income": 416000,
+      "southern_household_mean_income": 251100,
+      "us_household_mean_income": 299600,
+      "western_household_mean_income": 415600,
+      "year_quarter": "2006Q4"
+    },
+    {
+      "midwestern_household_mean_income": 252000,
+      "northeastern_household_mean_income": 508600,
+      "southern_household_mean_income": 271200,
+      "us_household_mean_income": 322100,
+      "western_household_mean_income": 418600,
+      "year_quarter": "2007Q1"
+    },
+    {
+      "midwestern_household_mean_income": 261600,
+      "northeastern_household_mean_income": 404900,
+      "southern_household_mean_income": 264000,
+      "us_household_mean_income": 310100,
+      "western_household_mean_income": 414000,
+      "year_quarter": "2007Q2"
+    },
+    {
+      "midwestern_household_mean_income": 244700,
+      "northeastern_household_mean_income": 423500,
+      "southern_household_mean_income": 256500,
+      "us_household_mean_income": 301200,
+      "western_household_mean_income": 388700,
+      "year_quarter": "2007Q3"
+    },
+    {
+      "midwestern_household_mean_income": 251700,
+      "northeastern_household_mean_income": 425400,
+      "southern_household_mean_income": 271300,
+      "us_household_mean_income": 305800,
+      "western_household_mean_income": 383900,
+      "year_quarter": "2007Q4"
+    },
+    {
+      "midwestern_household_mean_income": 272800,
+      "northeastern_household_mean_income": 464600,
+      "southern_household_mean_income": 248500,
+      "us_household_mean_income": 290400,
+      "western_household_mean_income": 354500,
+      "year_quarter": "2008Q1"
+    },
+    {
+      "midwestern_household_mean_income": 239100,
+      "northeastern_household_mean_income": 511000,
+      "southern_household_mean_income": 268100,
+      "us_household_mean_income": 304200,
+      "western_household_mean_income": 375400,
+      "year_quarter": "2008Q2"
+    },
+    {
+      "midwestern_household_mean_income": 228100,
+      "northeastern_household_mean_income": 484300,
+      "southern_household_mean_income": 249200,
+      "us_household_mean_income": 285100,
+      "western_household_mean_income": 360300,
+      "year_quarter": "2008Q3"
+    },
+    {
+      "midwestern_household_mean_income": 243800,
+      "northeastern_household_mean_income": 395100,
+      "southern_household_mean_income": 234500,
+      "us_household_mean_income": 276600,
+      "western_household_mean_income": 358400,
+      "year_quarter": "2008Q4"
+    },
+    {
+      "midwestern_household_mean_income": 219600,
+      "northeastern_household_mean_income": 370600,
+      "southern_household_mean_income": 234500,
+      "us_household_mean_income": 257000,
+      "western_household_mean_income": 311000,
+      "year_quarter": "2009Q1"
+    },
+    {
+      "midwestern_household_mean_income": 234000,
+      "northeastern_household_mean_income": 377300,
+      "southern_household_mean_income": 243500,
+      "us_household_mean_income": 273400,
+      "western_household_mean_income": 336900,
+      "year_quarter": "2009Q2"
+    },
+    {
+      "midwestern_household_mean_income": 217700,
+      "northeastern_household_mean_income": 437700,
+      "southern_household_mean_income": 243800,
+      "us_household_mean_income": 274100,
+      "western_household_mean_income": 317800,
+      "year_quarter": "2009Q3"
+    },
+    {
+      "midwestern_household_mean_income": 235300,
+      "northeastern_household_mean_income": 465800,
+      "southern_household_mean_income": 232900,
+      "us_household_mean_income": 272900,
+      "western_household_mean_income": 318800,
+      "year_quarter": "2009Q4"
+    },
+    {
+      "midwestern_household_mean_income": 248000,
+      "northeastern_household_mean_income": 432000,
+      "southern_household_mean_income": 235500,
+      "us_household_mean_income": 275300,
+      "western_household_mean_income": 326800,
+      "year_quarter": "2010Q1"
+    },
+    {
+      "midwestern_household_mean_income": 220500,
+      "northeastern_household_mean_income": 432200,
+      "southern_household_mean_income": 233700,
+      "us_household_mean_income": 268800,
+      "western_household_mean_income": 322200,
+      "year_quarter": "2010Q2"
+    },
+    {
+      "midwestern_household_mean_income": 214400,
+      "northeastern_household_mean_income": 406400,
+      "southern_household_mean_income": 243200,
+      "us_household_mean_income": 266000,
+      "western_household_mean_income": 306700,
+      "year_quarter": "2010Q3"
+    },
+    {
+      "midwestern_household_mean_income": 251100,
+      "northeastern_household_mean_income": 415500,
+      "southern_household_mean_income": 261100,
+      "us_household_mean_income": 278000,
+      "western_household_mean_income": 295900,
+      "year_quarter": "2010Q4"
+    },
+    {
+      "midwestern_household_mean_income": 229400,
+      "northeastern_household_mean_income": 409000,
+      "southern_household_mean_income": 251600,
+      "us_household_mean_income": 268100,
+      "western_household_mean_income": 291800,
+      "year_quarter": "2011Q1"
+    },
+    {
+      "midwestern_household_mean_income": 247500,
+      "northeastern_household_mean_income": 348700,
+      "southern_household_mean_income": 244200,
+      "us_household_mean_income": 267600,
+      "western_household_mean_income": 311000,
+      "year_quarter": "2011Q2"
+    },
+    {
+      "midwestern_household_mean_income": 230400,
+      "northeastern_household_mean_income": 394700,
+      "southern_household_mean_income": 247500,
+      "us_household_mean_income": 263000,
+      "western_household_mean_income": 294700,
+      "year_quarter": "2011Q3"
+    },
+    {
+      "midwestern_household_mean_income": 248200,
+      "northeastern_household_mean_income": 381600,
+      "southern_household_mean_income": 236100,
+      "us_household_mean_income": 259700,
+      "western_household_mean_income": 298200,
+      "year_quarter": "2011Q4"
+    },
+    {
+      "midwestern_household_mean_income": 254300,
+      "northeastern_household_mean_income": 372800,
+      "southern_household_mean_income": 254600,
+      "us_household_mean_income": 278000,
+      "western_household_mean_income": 319000,
+      "year_quarter": "2012Q1"
+    },
+    {
+      "midwestern_household_mean_income": 261000,
+      "northeastern_household_mean_income": 411800,
+      "southern_household_mean_income": 253000,
+      "us_household_mean_income": 282700,
+      "western_household_mean_income": 313400,
+      "year_quarter": "2012Q2"
+    },
+    {
+      "midwestern_household_mean_income": 271700,
+      "northeastern_household_mean_income": 428500,
+      "southern_household_mean_income": 269400,
+      "us_household_mean_income": 294500,
+      "western_household_mean_income": 313900,
+      "year_quarter": "2012Q3"
+    },
+    {
+      "midwestern_household_mean_income": 259000,
+      "northeastern_household_mean_income": 457500,
+      "southern_household_mean_income": 275800,
+      "us_household_mean_income": 297700,
+      "western_household_mean_income": 325900,
+      "year_quarter": "2012Q4"
+    },
+    {
+      "midwestern_household_mean_income": 270300,
+      "northeastern_household_mean_income": 482200,
+      "southern_household_mean_income": 273100,
+      "us_household_mean_income": 307400,
+      "western_household_mean_income": 342900,
+      "year_quarter": "2013Q1"
+    },
+    {
+      "midwestern_household_mean_income": 289600,
+      "northeastern_household_mean_income": 480900,
+      "southern_household_mean_income": 295100,
+      "us_household_mean_income": 320400,
+      "western_household_mean_income": 355000,
+      "year_quarter": "2013Q2"
+    },
+    {
+      "midwestern_household_mean_income": 305700,
+      "northeastern_household_mean_income": 436200,
+      "southern_household_mean_income": 292600,
+      "us_household_mean_income": 324400,
+      "western_household_mean_income": 372200,
+      "year_quarter": "2013Q3"
+    },
+    {
+      "midwestern_household_mean_income": 317900,
+      "northeastern_household_mean_income": 496200,
+      "southern_household_mean_income": 292100,
+      "us_household_mean_income": 334400,
+      "western_household_mean_income": 413200,
+      "year_quarter": "2013Q4"
+    },
+    {
+      "midwestern_household_mean_income": 299000,
+      "northeastern_household_mean_income": 458200,
+      "southern_household_mean_income": 297100,
+      "us_household_mean_income": 331400,
+      "western_household_mean_income": 400800,
+      "year_quarter": "2014Q1"
+    },
+    {
+      "midwestern_household_mean_income": 305700,
+      "northeastern_household_mean_income": 473800,
+      "southern_household_mean_income": 310200,
+      "us_household_mean_income": 340600,
+      "western_household_mean_income": 391200,
+      "year_quarter": "2014Q2"
+    },
+    {
+      "midwestern_household_mean_income": 309600,
+      "northeastern_household_mean_income": 606900,
+      "southern_household_mean_income": 297100,
+      "us_household_mean_income": 340400,
+      "western_household_mean_income": 393200,
+      "year_quarter": "2014Q3"
+    },
+    {
+      "midwestern_household_mean_income": 312400,
+      "northeastern_household_mean_income": 605000,
+      "southern_household_mean_income": 332500,
+      "us_household_mean_income": 369400,
+      "western_household_mean_income": 420600,
+      "year_quarter": "2014Q4"
+    },
+    {
+      "midwestern_household_mean_income": 320200,
+      "northeastern_household_mean_income": 621400,
+      "southern_household_mean_income": 309000,
+      "us_household_mean_income": 348000,
+      "western_household_mean_income": 408700,
+      "year_quarter": "2015Q1"
+    },
+    {
+      "midwestern_household_mean_income": 325300,
+      "northeastern_household_mean_income": 485000,
+      "southern_household_mean_income": 306300,
+      "us_household_mean_income": 339700,
+      "western_household_mean_income": 391100,
+      "year_quarter": "2015Q2"
+    },
+    {
+      "midwestern_household_mean_income": 302000,
+      "northeastern_household_mean_income": 526700,
+      "southern_household_mean_income": 312200,
+      "us_household_mean_income": 347400,
+      "western_household_mean_income": 409600,
+      "year_quarter": "2015Q3"
+    },
+    {
+      "midwestern_household_mean_income": 313600,
+      "northeastern_household_mean_income": 641300,
+      "southern_household_mean_income": 324200,
+      "us_household_mean_income": 366700,
+      "western_household_mean_income": 427200,
+      "year_quarter": "2015Q4"
+    },
+    {
+      "midwestern_household_mean_income": 303800,
+      "northeastern_household_mean_income": 473900,
+      "southern_household_mean_income": 330300,
+      "us_household_mean_income": 357000,
+      "western_household_mean_income": 414500,
+      "year_quarter": "2016Q1"
+    },
+    {
+      "midwestern_household_mean_income": 296500,
+      "northeastern_household_mean_income": 541300,
+      "southern_household_mean_income": 314400,
+      "us_household_mean_income": 357900,
+      "western_household_mean_income": 439600,
+      "year_quarter": "2016Q2"
+    },
+    {
+      "midwestern_household_mean_income": 312500,
+      "northeastern_household_mean_income": 615500,
+      "southern_household_mean_income": 315700,
+      "us_household_mean_income": 358800,
+      "western_household_mean_income": 437100,
+      "year_quarter": "2016Q3"
+    },
+    {
+      "midwestern_household_mean_income": 335200,
+      "northeastern_household_mean_income": 497000,
+      "southern_household_mean_income": 325200,
+      "us_household_mean_income": 364900,
+      "western_household_mean_income": 438500,
+      "year_quarter": "2016Q4"
+    },
+    {
+      "midwestern_household_mean_income": 329200,
+      "northeastern_household_mean_income": 645800,
+      "southern_household_mean_income": 327200,
+      "us_household_mean_income": 374800,
+      "western_household_mean_income": 434700,
+      "year_quarter": "2017Q1"
+    },
+    {
+      "midwestern_household_mean_income": 322300,
+      "northeastern_household_mean_income": 583500,
+      "southern_household_mean_income": 336100,
+      "us_household_mean_income": 376900,
+      "western_household_mean_income": 432700,
+      "year_quarter": "2017Q2"
+    },
+    {
+      "midwestern_household_mean_income": 316500,
+      "northeastern_household_mean_income": 536200,
+      "southern_household_mean_income": 334000,
+      "us_household_mean_income": 373200,
+      "western_household_mean_income": 451400,
+      "year_quarter": "2017Q3"
+    },
+    {
+      "midwestern_household_mean_income": 322800,
+      "northeastern_household_mean_income": 683200,
+      "southern_household_mean_income": 340400,
+      "us_household_mean_income": 399700,
+      "western_household_mean_income": 486800,
+      "year_quarter": "2017Q4"
+    },
+    {
+      "midwestern_household_mean_income": 326300,
+      "northeastern_household_mean_income": 514600,
+      "southern_household_mean_income": 329900,
+      "us_household_mean_income": 374600,
+      "western_household_mean_income": 456800,
+      "year_quarter": "2018Q1"
+    },
+    {
+      "midwestern_household_mean_income": 316600,
+      "northeastern_household_mean_income": 576600,
+      "southern_household_mean_income": 327200,
+      "us_household_mean_income": 378400,
+      "western_household_mean_income": 483700,
+      "year_quarter": "2018Q2"
+    },
+    {
+      "midwestern_household_mean_income": 339500,
+      "northeastern_household_mean_income": 675000,
+      "southern_household_mean_income": 347800,
+      "us_household_mean_income": 392900,
+      "western_household_mean_income": 463200,
+      "year_quarter": "2018Q3"
+    },
+    {
+      "midwestern_household_mean_income": 335300,
+      "northeastern_household_mean_income": 664600,
+      "southern_household_mean_income": 334100,
+      "us_household_mean_income": 384000,
+      "western_household_mean_income": 478500,
+      "year_quarter": "2018Q4"
+    },
+    {
+      "midwestern_household_mean_income": 315900,
+      "northeastern_household_mean_income": 595700,
+      "southern_household_mean_income": 330300,
+      "us_household_mean_income": 375500,
+      "western_household_mean_income": 457700,
+      "year_quarter": "2019Q1"
+    },
+    {
+      "midwestern_household_mean_income": 310600,
+      "northeastern_household_mean_income": 608200,
+      "southern_household_mean_income": 334500,
+      "us_household_mean_income": 376700,
+      "western_household_mean_income": 464400,
+      "year_quarter": "2019Q2"
+    },
+    {
+      "midwestern_household_mean_income": 326800,
+      "northeastern_household_mean_income": 688600,
+      "southern_household_mean_income": 332500,
+      "us_household_mean_income": 382700,
+      "western_household_mean_income": 471600,
+      "year_quarter": "2019Q3"
+    },
+    {
+      "midwestern_household_mean_income": 335300,
+      "northeastern_household_mean_income": 526900,
+      "southern_household_mean_income": 340700,
+      "us_household_mean_income": 384600,
+      "western_household_mean_income": 477700,
+      "year_quarter": "2019Q4"
+    },
+    {
+      "midwestern_household_mean_income": 337000,
+      "northeastern_household_mean_income": 645200,
+      "southern_household_mean_income": 325300,
+      "us_household_mean_income": 383000,
+      "western_household_mean_income": 471300,
+      "year_quarter": "2020Q1"
+    },
+    {
+      "midwestern_household_mean_income": 329800,
+      "northeastern_household_mean_income": 608300,
+      "southern_household_mean_income": 327000,
+      "us_household_mean_income": 374500,
+      "western_household_mean_income": 457800,
+      "year_quarter": "2020Q2"
+    },
+    {
+      "midwestern_household_mean_income": 364100,
+      "northeastern_household_mean_income": 609000,
+      "southern_household_mean_income": 349600,
+      "us_household_mean_income": 397800,
+      "western_household_mean_income": 470800,
+      "year_quarter": "2020Q3"
+    },
+    {
+      "midwestern_household_mean_income": 338500,
+      "northeastern_household_mean_income": 624200,
+      "southern_household_mean_income": 367100,
+      "us_household_mean_income": 403900,
+      "western_household_mean_income": 479100,
+      "year_quarter": "2020Q4"
+    },
+    {
+      "midwestern_household_mean_income": 356500,
+      "northeastern_household_mean_income": 620200,
+      "southern_household_mean_income": 369200,
+      "us_household_mean_income": 418600,
+      "western_household_mean_income": 518000,
+      "year_quarter": "2021Q1"
+    },
+    {
+      "midwestern_household_mean_income": 370000,
+      "northeastern_household_mean_income": 722900,
+      "southern_household_mean_income": 391000,
+      "us_household_mean_income": 440600,
+      "western_household_mean_income": 531600,
+      "year_quarter": "2021Q2"
+    },
+    {
+      "midwestern_household_mean_income": 394900,
+      "northeastern_household_mean_income": 731500,
+      "southern_household_mean_income": 418300,
+      "us_household_mean_income": 473000,
+      "western_household_mean_income": 598200,
+      "year_quarter": "2021Q3"
+    },
+    {
+      "midwestern_household_mean_income": 414600,
+      "northeastern_household_mean_income": 737900,
+      "southern_household_mean_income": 451800,
+      "us_household_mean_income": 497300,
+      "western_household_mean_income": 591600,
+      "year_quarter": "2021Q4"
+    },
+    {
+      "midwestern_household_mean_income": 432000,
+      "northeastern_household_mean_income": 766400,
+      "southern_household_mean_income": 451000,
+      "us_household_mean_income": 514100,
+      "western_household_mean_income": 627700,
+      "year_quarter": "2022Q1"
+    },
+    {
+      "midwestern_household_mean_income": 438700,
+      "northeastern_household_mean_income": 707000,
+      "southern_household_mean_income": 482000,
+      "us_household_mean_income": 527500,
+      "western_household_mean_income": 647300,
+      "year_quarter": "2022Q2"
+    },
+    {
+      "midwestern_household_mean_income": 435300,
+      "northeastern_household_mean_income": 995200,
+      "southern_household_mean_income": 493000,
+      "us_household_mean_income": 547800,
+      "western_household_mean_income": 669900,
+      "year_quarter": "2022Q3"
+    },
+    {
+      "midwestern_household_mean_income": 403100,
+      "northeastern_household_mean_income": 798800,
+      "southern_household_mean_income": 502200,
+      "us_household_mean_income": 552600,
+      "western_household_mean_income": 666800,
+      "year_quarter": "2022Q4"
+    },
+    {
+      "midwestern_household_mean_income": 449300,
+      "northeastern_household_mean_income": 825300,
+      "southern_household_mean_income": 446200,
+      "us_household_mean_income": 505300,
+      "western_household_mean_income": 624700,
+      "year_quarter": "2023Q1"
+    }
+  ],
+  "quarterly_interest_rate": [
+    {
+      "fixed_30_year_rate": "9.1685",
+      "year_quarter": "1975Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.8754",
+      "year_quarter": "1975Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.9838",
+      "year_quarter": "1975Q3"
+    },
+    {
+      "fixed_30_year_rate": "9.1608",
+      "year_quarter": "1975Q4"
+    },
+    {
+      "fixed_30_year_rate": "8.8731",
+      "year_quarter": "1976Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.7769",
+      "year_quarter": "1976Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.9677",
+      "year_quarter": "1976Q3"
+    },
+    {
+      "fixed_30_year_rate": "8.8471",
+      "year_quarter": "1976Q4"
+    },
+    {
+      "fixed_30_year_rate": "8.6933",
+      "year_quarter": "1977Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.8077",
+      "year_quarter": "1977Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.925",
+      "year_quarter": "1977Q3"
+    },
+    {
+      "fixed_30_year_rate": "8.9369",
+      "year_quarter": "1977Q4"
+    },
+    {
+      "fixed_30_year_rate": "9.1269",
+      "year_quarter": "1978Q1"
+    },
+    {
+      "fixed_30_year_rate": "9.5577",
+      "year_quarter": "1978Q2"
+    },
+    {
+      "fixed_30_year_rate": "9.76",
+      "year_quarter": "1978Q3"
+    },
+    {
+      "fixed_30_year_rate": "10.1223",
+      "year_quarter": "1978Q4"
+    },
+    {
+      "fixed_30_year_rate": "10.4092",
+      "year_quarter": "1979Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.7638",
+      "year_quarter": "1979Q2"
+    },
+    {
+      "fixed_30_year_rate": "11.1569",
+      "year_quarter": "1979Q3"
+    },
+    {
+      "fixed_30_year_rate": "12.4846",
+      "year_quarter": "1979Q4"
+    },
+    {
+      "fixed_30_year_rate": "13.68",
+      "year_quarter": "1980Q1"
+    },
+    {
+      "fixed_30_year_rate": "14.4192",
+      "year_quarter": "1980Q2"
+    },
+    {
+      "fixed_30_year_rate": "12.6431",
+      "year_quarter": "1980Q3"
+    },
+    {
+      "fixed_30_year_rate": "14.2262",
+      "year_quarter": "1980Q4"
+    },
+    {
+      "fixed_30_year_rate": "15.1269",
+      "year_quarter": "1981Q1"
+    },
+    {
+      "fixed_30_year_rate": "16.2392",
+      "year_quarter": "1981Q2"
+    },
+    {
+      "fixed_30_year_rate": "17.38",
+      "year_quarter": "1981Q3"
+    },
+    {
+      "fixed_30_year_rate": "17.7357",
+      "year_quarter": "1981Q4"
+    },
+    {
+      "fixed_30_year_rate": "17.4142",
+      "year_quarter": "1982Q1"
+    },
+    {
+      "fixed_30_year_rate": "16.7662",
+      "year_quarter": "1982Q2"
+    },
+    {
+      "fixed_30_year_rate": "16.2215",
+      "year_quarter": "1982Q3"
+    },
+    {
+      "fixed_30_year_rate": "14.0329",
+      "year_quarter": "1982Q4"
+    },
+    {
+      "fixed_30_year_rate": "13.03",
+      "year_quarter": "1983Q1"
+    },
+    {
+      "fixed_30_year_rate": "12.7631",
+      "year_quarter": "1983Q2"
+    },
+    {
+      "fixed_30_year_rate": "13.6414",
+      "year_quarter": "1983Q3"
+    },
+    {
+      "fixed_30_year_rate": "13.46",
+      "year_quarter": "1983Q4"
+    },
+    {
+      "fixed_30_year_rate": "13.3331",
+      "year_quarter": "1984Q1"
+    },
+    {
+      "fixed_30_year_rate": "14.0354",
+      "year_quarter": "1984Q2"
+    },
+    {
+      "fixed_30_year_rate": "14.4938",
+      "year_quarter": "1984Q3"
+    },
+    {
+      "fixed_30_year_rate": "13.6485",
+      "year_quarter": "1984Q4"
+    },
+    {
+      "fixed_30_year_rate": "13.0638",
+      "year_quarter": "1985Q1"
+    },
+    {
+      "fixed_30_year_rate": "12.7854",
+      "year_quarter": "1985Q2"
+    },
+    {
+      "fixed_30_year_rate": "12.1408",
+      "year_quarter": "1985Q3"
+    },
+    {
+      "fixed_30_year_rate": "11.7308",
+      "year_quarter": "1985Q4"
+    },
+    {
+      "fixed_30_year_rate": "10.5838",
+      "year_quarter": "1986Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.2462",
+      "year_quarter": "1986Q2"
+    },
+    {
+      "fixed_30_year_rate": "10.2354",
+      "year_quarter": "1986Q3"
+    },
+    {
+      "fixed_30_year_rate": "9.6838",
+      "year_quarter": "1986Q4"
+    },
+    {
+      "fixed_30_year_rate": "9.1146",
+      "year_quarter": "1987Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.3431",
+      "year_quarter": "1987Q2"
+    },
+    {
+      "fixed_30_year_rate": "10.4815",
+      "year_quarter": "1987Q3"
+    },
+    {
+      "fixed_30_year_rate": "10.8643",
+      "year_quarter": "1987Q4"
+    },
+    {
+      "fixed_30_year_rate": "10.0683",
+      "year_quarter": "1988Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.3592",
+      "year_quarter": "1988Q2"
+    },
+    {
+      "fixed_30_year_rate": "10.4964",
+      "year_quarter": "1988Q3"
+    },
+    {
+      "fixed_30_year_rate": "10.41",
+      "year_quarter": "1988Q4"
+    },
+    {
+      "fixed_30_year_rate": "10.82",
+      "year_quarter": "1989Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.6362",
+      "year_quarter": "1989Q2"
+    },
+    {
+      "fixed_30_year_rate": "10.0077",
+      "year_quarter": "1989Q3"
+    },
+    {
+      "fixed_30_year_rate": "9.8138",
+      "year_quarter": "1989Q4"
+    },
+    {
+      "fixed_30_year_rate": "10.1315",
+      "year_quarter": "1990Q1"
+    },
+    {
+      "fixed_30_year_rate": "10.3238",
+      "year_quarter": "1990Q2"
+    },
+    {
+      "fixed_30_year_rate": "10.1031",
+      "year_quarter": "1990Q3"
+    },
+    {
+      "fixed_30_year_rate": "9.9592",
+      "year_quarter": "1990Q4"
+    },
+    {
+      "fixed_30_year_rate": "9.5008",
+      "year_quarter": "1991Q1"
+    },
+    {
+      "fixed_30_year_rate": "9.5223",
+      "year_quarter": "1991Q2"
+    },
+    {
+      "fixed_30_year_rate": "9.2731",
+      "year_quarter": "1991Q3"
+    },
+    {
+      "fixed_30_year_rate": "8.69",
+      "year_quarter": "1991Q4"
+    },
+    {
+      "fixed_30_year_rate": "8.6885",
+      "year_quarter": "1992Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.6777",
+      "year_quarter": "1992Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.0177",
+      "year_quarter": "1992Q3"
+    },
+    {
+      "fixed_30_year_rate": "8.1921",
+      "year_quarter": "1992Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.7233",
+      "year_quarter": "1993Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.4531",
+      "year_quarter": "1993Q2"
+    },
+    {
+      "fixed_30_year_rate": "7.0877",
+      "year_quarter": "1993Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.0464",
+      "year_quarter": "1993Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.2958",
+      "year_quarter": "1994Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.4277",
+      "year_quarter": "1994Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.5943",
+      "year_quarter": "1994Q3"
+    },
+    {
+      "fixed_30_year_rate": "9.1054",
+      "year_quarter": "1994Q4"
+    },
+    {
+      "fixed_30_year_rate": "8.7854",
+      "year_quarter": "1995Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.9177",
+      "year_quarter": "1995Q2"
+    },
+    {
+      "fixed_30_year_rate": "7.6962",
+      "year_quarter": "1995Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.3392",
+      "year_quarter": "1995Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.2723",
+      "year_quarter": "1996Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.1023",
+      "year_quarter": "1996Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.1469",
+      "year_quarter": "1996Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.7031",
+      "year_quarter": "1996Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.7931",
+      "year_quarter": "1997Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.9269",
+      "year_quarter": "1997Q2"
+    },
+    {
+      "fixed_30_year_rate": "7.47",
+      "year_quarter": "1997Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.2054",
+      "year_quarter": "1997Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.05",
+      "year_quarter": "1998Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.0977",
+      "year_quarter": "1998Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.8723",
+      "year_quarter": "1998Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.7643",
+      "year_quarter": "1998Q4"
+    },
+    {
+      "fixed_30_year_rate": "6.8775",
+      "year_quarter": "1999Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.1815",
+      "year_quarter": "1999Q2"
+    },
+    {
+      "fixed_30_year_rate": "7.7862",
+      "year_quarter": "1999Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.8407",
+      "year_quarter": "1999Q4"
+    },
+    {
+      "fixed_30_year_rate": "8.2569",
+      "year_quarter": "2000Q1"
+    },
+    {
+      "fixed_30_year_rate": "8.3162",
+      "year_quarter": "2000Q2"
+    },
+    {
+      "fixed_30_year_rate": "8.02",
+      "year_quarter": "2000Q3"
+    },
+    {
+      "fixed_30_year_rate": "7.6208",
+      "year_quarter": "2000Q4"
+    },
+    {
+      "fixed_30_year_rate": "7.0069",
+      "year_quarter": "2001Q1"
+    },
+    {
+      "fixed_30_year_rate": "7.13",
+      "year_quarter": "2001Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.9638",
+      "year_quarter": "2001Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.7708",
+      "year_quarter": "2001Q4"
+    },
+    {
+      "fixed_30_year_rate": "6.9715",
+      "year_quarter": "2002Q1"
+    },
+    {
+      "fixed_30_year_rate": "6.8131",
+      "year_quarter": "2002Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.2892",
+      "year_quarter": "2002Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.0754",
+      "year_quarter": "2002Q4"
+    },
+    {
+      "fixed_30_year_rate": "5.8408",
+      "year_quarter": "2003Q1"
+    },
+    {
+      "fixed_30_year_rate": "5.5069",
+      "year_quarter": "2003Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.0338",
+      "year_quarter": "2003Q3"
+    },
+    {
+      "fixed_30_year_rate": "5.9193",
+      "year_quarter": "2003Q4"
+    },
+    {
+      "fixed_30_year_rate": "5.5975",
+      "year_quarter": "2004Q1"
+    },
+    {
+      "fixed_30_year_rate": "6.1062",
+      "year_quarter": "2004Q2"
+    },
+    {
+      "fixed_30_year_rate": "5.8943",
+      "year_quarter": "2004Q3"
+    },
+    {
+      "fixed_30_year_rate": "5.7362",
+      "year_quarter": "2004Q4"
+    },
+    {
+      "fixed_30_year_rate": "5.7685",
+      "year_quarter": "2005Q1"
+    },
+    {
+      "fixed_30_year_rate": "5.7085",
+      "year_quarter": "2005Q2"
+    },
+    {
+      "fixed_30_year_rate": "5.7638",
+      "year_quarter": "2005Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.2262",
+      "year_quarter": "2005Q4"
+    },
+    {
+      "fixed_30_year_rate": "6.2469",
+      "year_quarter": "2006Q1"
+    },
+    {
+      "fixed_30_year_rate": "6.6023",
+      "year_quarter": "2006Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.56",
+      "year_quarter": "2006Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.2438",
+      "year_quarter": "2006Q4"
+    },
+    {
+      "fixed_30_year_rate": "6.2146",
+      "year_quarter": "2007Q1"
+    },
+    {
+      "fixed_30_year_rate": "6.3585",
+      "year_quarter": "2007Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.5515",
+      "year_quarter": "2007Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.2246",
+      "year_quarter": "2007Q4"
+    },
+    {
+      "fixed_30_year_rate": "5.8723",
+      "year_quarter": "2008Q1"
+    },
+    {
+      "fixed_30_year_rate": "6.0869",
+      "year_quarter": "2008Q2"
+    },
+    {
+      "fixed_30_year_rate": "6.3223",
+      "year_quarter": "2008Q3"
+    },
+    {
+      "fixed_30_year_rate": "5.8414",
+      "year_quarter": "2008Q4"
+    },
+    {
+      "fixed_30_year_rate": "5.06",
+      "year_quarter": "2009Q1"
+    },
+    {
+      "fixed_30_year_rate": "5.0123",
+      "year_quarter": "2009Q2"
+    },
+    {
+      "fixed_30_year_rate": "5.1623",
+      "year_quarter": "2009Q3"
+    },
+    {
+      "fixed_30_year_rate": "4.9221",
+      "year_quarter": "2009Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.9958",
+      "year_quarter": "2010Q1"
+    },
+    {
+      "fixed_30_year_rate": "4.9223",
+      "year_quarter": "2010Q2"
+    },
+    {
+      "fixed_30_year_rate": "4.4471",
+      "year_quarter": "2010Q3"
+    },
+    {
+      "fixed_30_year_rate": "4.4362",
+      "year_quarter": "2010Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.8469",
+      "year_quarter": "2011Q1"
+    },
+    {
+      "fixed_30_year_rate": "4.6508",
+      "year_quarter": "2011Q2"
+    },
+    {
+      "fixed_30_year_rate": "4.2915",
+      "year_quarter": "2011Q3"
+    },
+    {
+      "fixed_30_year_rate": "4.0023",
+      "year_quarter": "2011Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.9223",
+      "year_quarter": "2012Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.7946",
+      "year_quarter": "2012Q2"
+    },
+    {
+      "fixed_30_year_rate": "3.5538",
+      "year_quarter": "2012Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.3592",
+      "year_quarter": "2012Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.4969",
+      "year_quarter": "2013Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.6723",
+      "year_quarter": "2013Q2"
+    },
+    {
+      "fixed_30_year_rate": "4.44",
+      "year_quarter": "2013Q3"
+    },
+    {
+      "fixed_30_year_rate": "4.2931",
+      "year_quarter": "2013Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.3646",
+      "year_quarter": "2014Q1"
+    },
+    {
+      "fixed_30_year_rate": "4.2277",
+      "year_quarter": "2014Q2"
+    },
+    {
+      "fixed_30_year_rate": "4.1354",
+      "year_quarter": "2014Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.9636",
+      "year_quarter": "2014Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.7167",
+      "year_quarter": "2015Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.8192",
+      "year_quarter": "2015Q2"
+    },
+    {
+      "fixed_30_year_rate": "3.9546",
+      "year_quarter": "2015Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.8979",
+      "year_quarter": "2015Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.7385",
+      "year_quarter": "2016Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.5892",
+      "year_quarter": "2016Q2"
+    },
+    {
+      "fixed_30_year_rate": "3.4462",
+      "year_quarter": "2016Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.8423",
+      "year_quarter": "2016Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.1731",
+      "year_quarter": "2017Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.98",
+      "year_quarter": "2017Q2"
+    },
+    {
+      "fixed_30_year_rate": "3.8838",
+      "year_quarter": "2017Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.9223",
+      "year_quarter": "2017Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.2823",
+      "year_quarter": "2018Q1"
+    },
+    {
+      "fixed_30_year_rate": "4.5446",
+      "year_quarter": "2018Q2"
+    },
+    {
+      "fixed_30_year_rate": "4.5669",
+      "year_quarter": "2018Q3"
+    },
+    {
+      "fixed_30_year_rate": "4.7846",
+      "year_quarter": "2018Q4"
+    },
+    {
+      "fixed_30_year_rate": "4.3738",
+      "year_quarter": "2019Q1"
+    },
+    {
+      "fixed_30_year_rate": "4.0108",
+      "year_quarter": "2019Q2"
+    },
+    {
+      "fixed_30_year_rate": "3.6585",
+      "year_quarter": "2019Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.7",
+      "year_quarter": "2019Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.5215",
+      "year_quarter": "2020Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.2392",
+      "year_quarter": "2020Q2"
+    },
+    {
+      "fixed_30_year_rate": "2.9523",
+      "year_quarter": "2020Q3"
+    },
+    {
+      "fixed_30_year_rate": "2.7607",
+      "year_quarter": "2020Q4"
+    },
+    {
+      "fixed_30_year_rate": "2.8758",
+      "year_quarter": "2021Q1"
+    },
+    {
+      "fixed_30_year_rate": "3.0038",
+      "year_quarter": "2021Q2"
+    },
+    {
+      "fixed_30_year_rate": "2.8721",
+      "year_quarter": "2021Q3"
+    },
+    {
+      "fixed_30_year_rate": "3.0792",
+      "year_quarter": "2021Q4"
+    },
+    {
+      "fixed_30_year_rate": "3.8223",
+      "year_quarter": "2022Q1"
+    },
+    {
+      "fixed_30_year_rate": "5.2662",
+      "year_quarter": "2022Q2"
+    },
+    {
+      "fixed_30_year_rate": "5.6231",
+      "year_quarter": "2022Q3"
+    },
+    {
+      "fixed_30_year_rate": "6.6646",
+      "year_quarter": "2022Q4"
+    },
+    {
+      "fixed_30_year_rate": "6.3723",
+      "year_quarter": "2023Q1"
+    }
+  ]
+}

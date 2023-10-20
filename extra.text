@@ -106,3 +106,89 @@ def function5():
         qir_result_dict["fixed_30_year_rate"]= row[1]
         quarterly_interest_rate_key.append(qir_result_dict)
     return jsonify(quarterly_interest_rate_key)
+
+
+
+
+---------------------------------------------------------------------
+HTML stuff
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mortgage Analysis</title>
+
+  <!D3 library -->
+  <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
+
+  <!-- MomentJS -->
+  <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/moment.min.js"></script> -->
+
+  <!-- Icons -->
+  <!-- <link rel="stylesheet" href="static/css/leaflet.extra-markers.min.css"> -->
+
+  <!-- Our CSS -->
+  <!-- <link rel="stylesheet" type="text/css" href="static/css/style.css"> -->
+<!-- </head> --> 
+
+
+
+  
+<!--
+<html>
+    <head>
+        //head code
+    </head>
+    <body>
+        <script type="text/javascript">
+            let x_values = {{ data.x_values }}
+            let y_values = {{ data.y_values }}
+        </script>
+        <div class="line_graph>
+            <script src="line_graph.js"></script>
+        </div>
+
+
+    </body>
+</html>-->
+
+<!-- <body> -->
+  <!-- The div that holds our map -->
+  <!-- <div id="chart"></div>
+
+  Our JavaScript file
+<script type="text/javascript" src="static/js/logic.js"></script>
+  <script type="text/javascript"  
+  <script type="text/javascript" src="Resources/MORTGAGE30US.csv"></script> --> 
+
+
+<!--   
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="en"> -->
+
+---------------------------------------------------------------------------
+Create RegionInfo:
+//function that creates the region info
+function createRegionInfo(sample)
+{
+    d3.json(url).then((data) =>
+    {
+        let RegionInfo = data.RegionInfo;
+        let value = RegionInfo.filter(result => result.region == sample);
+
+        console.log(value)
+
+        let valueData = value[0];
+        d3.select("#sample-metadata").html("");
+        Object.entries(valueData).forEach(([key,value]) =>
+        {
+            console.log(key,value);
+
+            d3.select("#sample-metadata").append("h5").text(`${key}: ${value}`);
+        });
+    });
+};

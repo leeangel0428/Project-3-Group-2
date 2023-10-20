@@ -5,6 +5,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func, select, text
 from flask import Flask, jsonify
+import json
 
 ## create engine
 url = "postgresql://postgres:postgres@localhost/project3"
@@ -17,22 +18,26 @@ app = Flask(__name__)
 # creating dictionary that will store response data
 response_data= {}
 
-@app.route('/')
+@app.route('/data')
 
 def function1():
     #made this a global variable so we can use it in the second function as well
     global response_data
+
+    region_list= ["United States", "Midwest", "South", "Northeast", "West"]
+    response_data['regions']= region_list
+
     query1= text('SELECT * FROM annual_family_income')
     afi_results = connection.execute(query1)
     annual_family_income_key= []
     for row in afi_results:
         afi_result_dict = {
             "year_quarter": row[0],
-            "us_household_mean_income": row[1],
-            "midwestern_household_mean_income": row[2],
-            "southern_household_mean_income": row[3],
-            "northeastern_household_mean_income": row[4],
-            "western_household_mean_income": row[5]
+            "United States": row[1],
+            "Midwest": row[2],
+            "South": row[3],
+            "Northeast": row[4],
+            "West": row[5]
         }
         annual_family_income_key.append(afi_result_dict)
     response_data['annual_family_income']= annual_family_income_key
@@ -91,8 +96,12 @@ def function1():
 
     return jsonify(response_data)
 
+@app.route('/')
 def index():
-    return render_template('index.html', data= response_data)
+    # to check response
+    function=function1()
+
+    return render_template('index.html', data= function)
 
 def close_connection():
     connection.close()
