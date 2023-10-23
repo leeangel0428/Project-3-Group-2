@@ -7,6 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Mortgage Analysis</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
 </head>
 
 <body>
@@ -14,8 +15,10 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 jumbotron text-center">
-        <h1>Interest Rate, Household Income, and House Price Relationship</h1>
-        <p>Use the interactive charts below to explore the dataset (1975 - 2022)</p>
+        <h1>House Prices, Interest Rates, and Family Income</h1>
+        <p>Contributers: Angel L, Clover M, Jake M, Raeshawn M, and Matthew B</p>
+        <p>Use the interactive drop down to explore (1975 - 2022). Please note the interest rate is federal and does not change by region.</p>
+        
       </div>
     </div>
     <div class="row">
@@ -32,11 +35,14 @@
         </div> -->
       </div>
       <div class="col-md-10">
-        <div id="bar"></div>
+        <div id="bar" class="js-plotly-plot"></div>
+          <div class="user-select-none svg-container" style="position: center"></div>
       </div>
       <div class="row"></div>
-      <div class="col-md-5">
-        <div id="line_graph"></div>
+      <div class="col-md-5" style="padding-left: 225px">
+        <div id="line_graph" class="js-plotly-plot"></div>
+          <div class="plot-container plotly"></div>
+            <div class="user-select-none svg-container" style="position: center"></div>
       </div>
     </div>
     <div class="row">

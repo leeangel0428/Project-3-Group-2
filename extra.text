@@ -192,3 +192,8 @@ function createRegionInfo(sample)
         });
     });
 };
+
+<h1>House Prices, Interest Rates, and Family Income</h1>
+        <p>Contributers: Angel L, Clover M, Jake M, Raeshawn M, and Matthew B</p>
+        <p>Use the interactive drop down to explore (1975 - 2022). Please note the interest rate is federal and does not change by region.</p>
+        
