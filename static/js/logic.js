@@ -12,6 +12,7 @@ d3.json(url).then(function (data) {
 
 //Initialize to get data from url
 function init() {
+    createAreaGraph()
     let dropdownMenu = d3.select("#selDataset");
     d3.json(url).then((data) => {
         let regions = data.regions;
@@ -19,11 +20,10 @@ function init() {
             console.log(region);
             dropdownMenu.append("option").text(region).property("value", region);
         });
+    
+        let default_region = "United States"
 
-        // let default_sample = names[0];
-        //         horizontalBar_chart(default_sample);
-        //         bubble_chart(default_sample);
-        // createRegionInfo(default_sample)
+        createLineChart(default_region);
     })
 };
 
@@ -89,44 +89,57 @@ function createLineChart(region) {
 };
 
 
+function createAreaGraph() {
+    d3.json(url).then((data) => {
+        let annual_interest_rate = data.annual_interest_rate
+        let annual_interest_rate_yValues = []
+        let annual_interest_rate_xValues = []
+        for (let index = 0; index < annual_interest_rate.length; index++) {
+            let annual_interest_rate_y = annual_interest_rate[index]['fixed_30_year_rate']
+            annual_interest_rate_yValues.push(annual_interest_rate_y)
+            let annual_interest_rate_x = annual_interest_rate[index]['year_quarter']
+            annual_interest_rate_xValues.push(annual_interest_rate_x)
+        }
+        console.log(annual_interest_rate_xValues)
+        console.log(annual_interest_rate_yValues)
+
+        var trace1 = {
+            x: annual_interest_rate_xValues, 
+            y: annual_interest_rate_yValues, 
+            fill: 'tozeroy',
+            type: 'scatter',
+            mode: 'none'
+        };
+        
+        var data = [trace1];
+        var layout = {
+            title: "Changes of United State Interest Rate annually (1975 - 2022)",
+            xaxis: {title: 'Year'},
+            yaxis: {title: 'US Interest Rate'},
+            autosize: false,
+        }
+        Plotly.newPlot('bar', data, layout);
+        
+    })
+}
 //run init function
 init()
 
 //Creating the map
 
-let myMap = L.map("map", {
-    center: [37.09, -95.71],
-    zoom: 5
-});
+// let myMap = L.map("map", {
+//     center: [37.09, -95.71],
+//     zoom: 5
+// });
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(myMap);
+// L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+//     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+// }).addTo(myMap);
 
-s
-function color(region) {
-    return region === 'United States'
-}
+// s
+// function color(region) {
+//     return region === 'United States'
+// }
 
-function test() {
-    var data = {
-        labels: ['Category 1', 'Category 2', 'Category 3', 'Category 4', 'Category 5'],
-        datasets: [{
-          label: 'Sample Data',
-          data: [10, 20, 15, 30, 25],
-          backgroundColor: 'rgba(75, 192, 192, 0.2)',
-          borderColor: 'rgba(75, 192, 192, 1)',
-          borderWidth: 1
-        }]
-      };
 
-    Var ctx = document.getElementById('myBarChart').getContext('2d');
-    var myBarChart = new Chart(ctx, {
-    type: 'bar',
-    data: data,
-    options: {}
-    });
-}
-
-test()
 
