@@ -1,6 +1,6 @@
 # Introduction:
 
-Hello and welcome to Group 2's submission for Project 3. Our group consists of Angel Lee, Clover McLaughlin, Jake Moen, Rae Mcallister, Matthew Byron. For context, at the time of writing this, we are enrolled in the Data Analytics and Visualizations bootcamp with the University of MN. in this repo, you will find the Resources folder, statis folder, Data cleaning jupyter notebook file, and the index.html file. The Resources folder contains the raw data from FRED. The static folder contains two folders, the css folder containing the "style.css" file and the js folder containing the "logic.js" file. 
+Hello and welcome to Group 2's submission for Project 3. Our group consists of Angel Lee, Clover McLaughlin, Jake Moen, RaeShawn Mcallister, Matthew Byron. For context, at the time of writing this, we are enrolled in the Data Analytics and Visualizations bootcamp with the University of MN.
 
 # Challenge Requirements: 
 
@@ -32,15 +32,59 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 2. As the average household income increases, the cost of homes increases.
 3. 28% of the average household income is needed to cover the mortgage payments.
 
-# Trouble Shooting:
+# In this REPO:
+1. Data_cleaning.ipynb: jupyter ntoebook used to clean raw data from FRED
+2. app.py: python file used to grab postgres sql data and create the main and data webpages
+3. extra.text: text file to hold multiple different codes we tried while trouble shooting/working on project in general
+4. jsonifyoutput.text: text file used to hold the jsonified data output on our data webpage
+6. Resources folder: holds the original csv files downloaded from FRED
+7. clean_data_outputs folder: holds the cleaned data from jupyter notebook
+8. postgres_sql_database folder: holds the schema used to create the ERD, the ERD, the data.sql file that contains sql code we used to create/import/alter tables and and clean values
+9. static folder: contains the css folder that holds the style.css file and the js folder that holds the logic.js file
+10. templates folder: contains the index.html file
 
-1. Forgot to drop indexes while reading csv files into jupyter notebook so we later on had to switch and drop them before creating new csv files with the cleaned data.
-2. Assigned incorrect PKs and FKs to sql ERD which later caused importing errors and table update errors in the Postgres SQL database. Had to correct those and alter tables accordingly.
+# Visualizations:
 
+### ERD (Entity-relationship Diagram):
+
+![project-3-ERD](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/25cc0be8-c7f8-4ddd-aaae-3d82d101a865)
+
+### Main Webpage: (add link here)
+
+### Line Graphs:
+
+![US-line](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/3faf32d1-1fc0-412e-85a8-e4581f2f4ec5)
+
+![Midwest-line](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/c3ad1e2c-a5cf-4aa8-bcce-895da7ba04ff)
+
+![South-line](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/2672901e-2336-4868-84f4-02bedc2f077f)
+
+![Northeast-line](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/b1f97d7b-13f8-4a4c-9610-adb26343d851)
+
+![West-line](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/1781f45c-9f25-4399-b6ca-f50a46078938)
+
+### Bar Graph:
+
+![interest-rate-bar](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/10d5475f-3e0f-4baf-a99d-90babd266c40)
+
+### Map Visual:
+
+
+# Limitions:
+1. Unable to calculate accurate annual data for house prices and interest rates so we
+2. Took quarter 2 values to represent the referenced years
+3. Unable to add a line graph to visually compare US house prices, interest rates, and family income
+4. Jupyter Notebook Cleaning:
+5. Original data was in Dates (01/01/1975) but we
+6. Converted Dates to show YearQuarter (1975Q1) which lead to sql issues and visualization issues with
+7. PostGresQL ERD/FKs and PKs
+8. Cleaned year_quarter values to remove “Q1” and “Q2” which skewed the ERD and FK constraints
+9. ERD appears correct despite being unable to adjust them in PostGres due to the actual values being changes
+10. Did not have enough time to use incorporate new js library 
 
 # Resources/ Citations:
 
-Aside from the sources cited below, everything used was retained information gathered from classes and class activities. As always shout out to our bootcamp TAs Sam and Randy for all their help answering our questions during office hours, our instructor Hunter for always being clear in his articulation of the course material, and our colleagues (notably Parker Shimek) for their encouragement and support.
+Aside from the sources cited below, everything used was retained information gathered from classes and class activities. As always shout out to our bootcamp TAs Sam and Randy for all their help answering our questions during office hours, our instructor Hunter for always being clear in his articulation of the course material, and our colleagues (notably Parker Shimek and Anthony Wells) for their encouragement and support.
 
 Chase. (n.d). "What percentage of your income should go towards your mortgage". JPMorgan Chase & Co. Retrieved from: https://www.chase.com/personal/mortgage/education/financing-a-home/what-percentage-income-towards-mortgage
 
@@ -54,7 +98,11 @@ FRED. (n.d). "Mean Family Income in the United States". Federal Reserve Bank of 
 
 Grinberg, M. (2017, December 12th). “The Flask Mega-Tutorial Part II: Templates”. Miguelgrinberg.com. Retrieved from: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
 
+Leaflet. (n.d.). "Interactive Chroropleth Map". Leaflet. Retrieved from: https://leafletjs.com/examples/choropleth/
+
 Multiple Contributors (https://github.com/chartjs/Chart.js/graphs/contributors). (nd). “Chart.js”. Retrieved from: https://www.chartjs.org/
+
+Salman, T. (2017, March 16th). "HTML5 CSS 3- Container and Div- How to work within Container and Div". YouTube. Retrieved from: https://www.youtube.com/watch?v=iwz8YazPKZE&ab_channel=TanveerSalman
 
 SlidesGo. (n.d). “Rental Housing Marketing Plan”. Freepik Company S.L. Retrieved from: https://slidesgo.com/theme/rental-housing-marketing-plan#search-housing&position-8&results-69&rs=search
 
@@ -65,3 +113,4 @@ Wikipedia. (2022, December 3rd). “Lodash”. Wikipedia Foundation, Inc. Retrie
 Wikipedia. (2023, September 27th). “Charts.js”. Wikipedia Foundation, Inc. Retrieved from: https://en.wikipedia.org/wiki/Chart.js
 
 Y.,D. (2023, March 15th). "Use global variables in Python functions". Sentry. Retrieved from: "https://sentry.io/answers/use-global-variables-in-python-functions/"
+

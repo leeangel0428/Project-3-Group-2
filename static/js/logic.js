@@ -113,7 +113,7 @@ function createAreaGraph() {
         
         var data = [trace1];
         var layout = {
-            title: "Changes of United State Interest Rate annually (1975 - 2022)",
+            title: "United State Interest Rate annually (1975 - 2022)",
             xaxis: {title: 'Year'},
             yaxis: {title: 'US Interest Rate'},
             autosize: false,

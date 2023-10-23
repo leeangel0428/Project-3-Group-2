@@ -4,6 +4,7 @@
 }
 
 body {
+<<<<<<< HEAD
   height: 95vh;
   font-family: sans-serif;
   text-align: center;
@@ -60,3 +61,15 @@ body,
 html {
   height: 100%;
 }
+=======
+    padding: 0;
+    margin: 0;
+  }
+
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+  
+>>>>>>> 2493fef7f97696c6ca2d2fdc4e7ec76c658130fc
