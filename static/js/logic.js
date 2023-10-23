@@ -24,6 +24,10 @@ function init() {
         let default_region = "United States"
 
         createLineChart(default_region);
+
+        createline_graph2(default_region);
+
+        createAreaGraph2()
     })
 };
 
@@ -32,6 +36,8 @@ function optionChanged(selectedRegion) {
     console.log(selectedRegion);
 
     createLineChart(selectedRegion);
+
+    createline_graph2(selectedRegion)
 
 }
 
@@ -88,6 +94,60 @@ function createLineChart(region) {
     })
 };
 
+function createline_graph2(region) {
+    d3.json(url).then((data) => {
+        // let quarterly_interest_rate = data.quarterly_interest_rate
+
+        // let quarterly_interest_rate_yValues = []
+        // let quarterly_interest_rate_xValues = []
+        // for (let index = 0; index < quarterly_interest_rate.length; index++) {
+        //     console.log(quarterly_interest_rate[index]['fixed_30_year_rate'])
+        //     let quarterly_interest_rate_y = quarterly_interest_rate[index]['fixed_30_year_rate']
+        //     quarterly_interest_rate_yValues.push(quarterly_interest_rate_y)
+        //     let quarterly_interest_rate_x = quarterly_interest_rate[index]['year_quarter']
+        //     quarterly_interest_rate_xValues.push(quarterly_interest_rate_x)
+        // }
+
+
+        let quarterly_house_price_regionValues = data.quarterly_house_price
+        let quarterly_house_price_yValues = []
+        let quarterly_house_price_xValues = []
+        for (let index = 0; index < quarterly_house_price_regionValues.length; index++) {
+            let quarterly_house_price_y = quarterly_house_price_regionValues[index][region]
+            quarterly_house_price_yValues.push(quarterly_house_price_y)
+            let quarterly_house_price_x = quarterly_house_price_regionValues[index]['year_quarter']
+            quarterly_house_price_xValues.push(quarterly_house_price_x)
+        }
+
+          
+        // var trace1 = {
+        //     x: quarterly_interest_rate_xValues, 
+        //     y: quarterly_interest_rate_yValues, 
+        //     type: 'scatter',
+        //     mode: 'line',
+        //     name: 'Quarterly Interest Rate'
+        // };
+
+        var trace2 = {
+            x: quarterly_house_price_xValues, 
+            y: quarterly_house_price_yValues, 
+            type: 'scatter',
+            mode: 'line',
+            name: 'Quarterly House Price'
+        };
+        
+        var data = [trace2];
+        var layout = {
+            title: "Changes of House Price quarterly (1975 - 2022)",
+            xaxis: {title: 'Quarter/Year'},
+            yaxis: {title: 'House Price/Interest Rate'},
+            autosize: false,
+        }
+        Plotly.newPlot('line_graph2', data, layout);
+        
+    })
+}
+
 
 function createAreaGraph() {
     d3.json(url).then((data) => {
@@ -122,28 +182,42 @@ function createAreaGraph() {
         
     })
 }
+
+
+function createAreaGraph2() {
+    d3.json(url).then((data) => {
+        let quarterly_interest_rate = data.quarterly_interest_rate
+        let quarterly_interest_rate_yValues = []
+        let quarterly_interest_rate_xValues = []
+        for (let index = 0; index < quarterly_interest_rate.length; index++) {
+            let quarterly_interest_rate_y = quarterly_interest_rate[index]['fixed_30_year_rate']
+            quarterly_interest_rate_yValues.push(quarterly_interest_rate_y)
+            let quarterly_interest_rate_x = quarterly_interest_rate[index]['year_quarter']
+            quarterly_interest_rate_xValues.push(quarterly_interest_rate_x)
+        }
+
+
+        var trace1 = {
+            x: quarterly_interest_rate_xValues, 
+            y: quarterly_interest_rate_yValues, 
+            fill: 'tozeroy',
+            type: 'scatter',
+            mode: 'none'
+        };
+        
+        var data = [trace1];
+        var layout = {
+            title: "United State Interest Rate quarterly (1975 - 2022)",
+            xaxis: {title: 'Quarter/Year'},
+            yaxis: {title: 'US Interest Rate'},
+            autosize: false,
+        }
+        Plotly.newPlot('graph2', data, layout);
+        
+    })
+}
 //run init function
 init()
-createMap()
-
-//Creating the map
-function createMap(){
-
-
-    var map = L.map('map').setView([37.8, -96], 4,{
-        zoomControl: false
-    });
-
-    var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 20,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
-    
-    // L.geoJson(statesData).addTo(map);
-    
-}
-
-
 
 
 

@@ -4,7 +4,7 @@
 }
 
 body {
-<<<<<<< HEAD
+
   height: 95vh;
   font-family: sans-serif;
   text-align: center;
@@ -21,16 +21,18 @@ body {
   display: flex;
   justify-content:first baseline;
   padding: 30px;
+  margin: 0 auto;
   margin-top: 1%;
 }
 
 .container1{
-  background-color: lightskyblue;
+  background-color: burlywood;
   position: relative;
   width: 1100px;
   display: flex;
   justify-content:first baseline;
   padding: 30px;
+  margin: 0 auto;
   margin-top: 1%;
 }
 
@@ -41,6 +43,7 @@ body {
   display: flex;
   justify-content:first baseline;
   padding: 30px;
+  margin: 0 auto;
   margin-top: 1%;
 }
 
@@ -49,6 +52,13 @@ body {
   height: 1100px;
 }
 
+.graph2{
+
+}
+
+.line_graph2{
+  
+}
 
 #map{
   width: 100px;
@@ -56,20 +66,9 @@ body {
   min-height: 100%;
   min-width: 100%;
   display: block;
-},
+};
+
 body,
 html {
   height: 100%;
 }
-=======
-    padding: 0;
-    margin: 0;
-  }
-
-  #map,
-  body,
-  html {
-    height: 100%;
-  }
-  
->>>>>>> 2493fef7f97696c6ca2d2fdc4e7ec76c658130fc
