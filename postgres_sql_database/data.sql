@@ -1,23 +1,27 @@
 -- Exported from QuickDBD: https://www.quickdatabasediagrams.com/ then edited by Angel L. to fix "no unique constraint error".
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+-- Dropping tables 
 
---Creating tables before importing data
+DROP TABLE annual_family_income;
+DROP TABLE annual_house_price;
+DROP TABLE annual_interest_rate;
+DROP TABLE quarterly_house_price;
+DROP TABLE quarterly_interest_rate;
+
+-- Creating tables
 
 CREATE TABLE "annual_family_income" (
-    "year_quarter" VARCHAR(100) NOT NULL,
+    "year_quarter" VARCHAR   NOT NULL,
     "us_household_mean_income" INT   NOT NULL,
     "midwestern_household_mean_income" INT   NOT NULL,
     "northeastern_household_mean_income" INT   NOT NULL,
     "southern_household_mean_income" INT   NOT NULL,
-    "western_household_mean_income" INT   NOT NULL,
-    CONSTRAINT "pk_annual_family_income" PRIMARY KEY (
-        "year_quarter"
-     )
+    "western_household_mean_income" INT   NOT NULL
 );
 
 CREATE TABLE "annual_house_price" (
-    "year_quarter" VARCHAR(100)   NOT NULL,
+    "year_quarter" VARCHAR   NOT NULL,
     "southern_average_price" INT   NOT NULL,
     "western_average_price" INT   NOT NULL,
     "nationwide_average_price" INT   NOT NULL,
@@ -26,21 +30,24 @@ CREATE TABLE "annual_house_price" (
 );
 
 CREATE TABLE "annual_interest_rate" (
-    "year_quarter" VARCHAR(100)   NOT NULL,
+    "year_quarter" VARCHAR   NOT NULL,
     "fixed_30_year_rate" DECIMAL   NOT NULL
 );
 
 CREATE TABLE "quarterly_house_price" (
-    "year_quarter" VARCHAR(100)   NOT NULL,
+    "year_quarter" VARCHAR   NOT NULL,
     "southern_average_price" INT   NOT NULL,
     "western_average_price" INT   NOT NULL,
     "nationwide_average_price" INT   NOT NULL,
     "northeastern_average_price" INT   NOT NULL,
-    "midwestern_average_price" INT   NOT NULL
+    "midwestern_average_price" INT   NOT NULL,
+    CONSTRAINT "pk_quarterly_house_price" PRIMARY KEY (
+        "year_quarter"
+     )
 );
 
 CREATE TABLE "quarterly_interest_rate" (
-    "year_quarter" VARCHAR(100)   NOT NULL,
+    "year_quarter" VARCHAR   NOT NULL,
     "fixed_30_year_rate" DECIMAL   NOT NULL
 );
 
@@ -102,14 +109,8 @@ SELECT * FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE TABLE_NAME='annual_inter
 SELECT * FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE TABLE_NAME='quarterly_house_price'
 SELECT * FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE TABLE_NAME='quarterly_interest_rate'
 
---Changing DEC data type to VARCHAR 
-ALTER TABLE annual_interest_rate
-ALTER COLUMN fixed_30_year_rate SET DATA TYPE VARCHAR(100);
-
-ALTER TABLE quarterly_interest_rate
-ALTER COLUMN fixed_30_year_rate SET DATA TYPE VARCHAR(100);
-
 --Changing the values in the year_quarter columns for annual_family_income, annual_house_price, and annual_interest_rate
+--Unfortunately, once we did this--it broke the relationships/FK constraints since the values differ now
 UPDATE annual_family_income
 SET year_quarter = SUBSTRING(year_quarter, 1, 4);
 
