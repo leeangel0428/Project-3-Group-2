@@ -108,3 +108,13 @@ ALTER COLUMN fixed_30_year_rate SET DATA TYPE VARCHAR(100);
 
 ALTER TABLE quarterly_interest_rate
 ALTER COLUMN fixed_30_year_rate SET DATA TYPE VARCHAR(100);
+
+--Changing the values in the year_quarter columns for annual_family_income, annual_house_price, and annual_interest_rate
+UPDATE annual_family_income
+SET year_quarter = SUBSTRING(year_quarter, 1, 4);
+
+UPDATE annual_house_price
+SET year_quarter = SUBSTRING(year_quarter, 1, 4);
+
+UPDATE annual_interest_rate
+SET year_quarter = SUBSTRING(year_quarter, 1, 4);

@@ -8,7 +8,7 @@ from flask import Flask, jsonify
 import json
 
 ## create engine
-url = "postgresql://postgres:postgres@localhost/project3"
+url = "postgresql://postgres:postgres@localhost:5432/Project3"
 engine = create_engine(url)
 connection = engine.connect()
 
@@ -48,11 +48,11 @@ def function1():
     for row in ahp_results:
         ahp_result_dict = {
             "year_quarter": row[0],
-            "southern_household_mean_income": row[1],
-            "western_household_mean_income": row[2],
-            "us_household_mean_income": row[3],
-            "northeastern_household_mean_income": row[4],
-            "midwestern_household_mean_income": row[5]
+            "South": row[1],
+            "West": row[2],
+            "United States": row[3],
+            "Northeast": row[4],
+            "Midwest": row[5]
         }
         annual_house_price_key.append(ahp_result_dict)
     response_data["annual_house_price"] = annual_house_price_key
@@ -63,11 +63,11 @@ def function1():
     for row in qhp_results:
         qhp_result_dict = {
             "year_quarter": row[0],
-            "southern_household_mean_income": row[1],
-            "western_household_mean_income": row[2],
-            "us_household_mean_income": row[3],
-            "northeastern_household_mean_income": row[4],
-            "midwestern_household_mean_income": row[5]
+            "South": row[1],
+            "West": row[2],
+            "United States": row[3],
+            "Northeast": row[4],
+            "Midwest": row[5]
         }
         quarterly_house_price_key.append(qhp_result_dict)
     response_data['quarterly_house_price']= quarterly_house_price_key
@@ -102,6 +102,11 @@ def index():
     function=function1()
 
     return render_template('index.html', data= function)
+
+@app.route('/test')
+def test():
+    return ({"test": "hello"})
+
 
 def close_connection():
     connection.close()
