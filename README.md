@@ -49,7 +49,14 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 
 ![project-3-ERD](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/25cc0be8-c7f8-4ddd-aaae-3d82d101a865)
 
+### Map Visual:
+
+![regions-image](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/7f9afd95-3fcd-430f-bd96-78ddcdcb4b0e)
+
 ### Main Webpage: (add link here)
+
+![Screenshot 2023-10-23 175928](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/1682fd19-2d07-473a-9e81-bfaa9bbfb984)
+
 
 ### Line Graphs:
 
@@ -67,9 +74,6 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 
 ![interest-rate-bar](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/10d5475f-3e0f-4baf-a99d-90babd266c40)
 
-### Map Visual:
-
-
 # Limitions:
 1. Unable to calculate accurate annual data for house prices and interest rates so we
 2. Took quarter 2 values to represent the referenced years
@@ -85,6 +89,8 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 # Resources/ Citations:
 
 Aside from the sources cited below, everything used was retained information gathered from classes and class activities. As always shout out to our bootcamp TAs Sam and Randy for all their help answering our questions during office hours, our instructor Hunter for always being clear in his articulation of the course material, and our colleagues (notably Parker Shimek and Anthony Wells) for their encouragement and support.
+
+Base64 Image. (n.d.). "Convert Your Images to Base64". Awesome Bonn UG. Retrieved from: https://www.base64-image.de/
 
 Chase. (n.d). "What percentage of your income should go towards your mortgage". JPMorgan Chase & Co. Retrieved from: https://www.chase.com/personal/mortgage/education/financing-a-home/what-percentage-income-towards-mortgage
 

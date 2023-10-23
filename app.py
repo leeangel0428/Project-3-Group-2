@@ -66,7 +66,7 @@ data = [
 
 
 ## create engine
-url = "postgresql://postgres:postgres@localhost:5432/Project3"
+url = "postgresql://postgres:postgres@localhost:5432/project3"
 engine = create_engine(url)
 connection = engine.connect()
 
