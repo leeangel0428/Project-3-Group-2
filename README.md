@@ -47,7 +47,7 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 
 ### ERD (Entity-relationship Diagram):
 
-![project-3-ERD](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/25cc0be8-c7f8-4ddd-aaae-3d82d101a865)
+![erd_final_image](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/c33ed1ae-36bd-4fca-96f8-58d8a00fbace)
 
 ### Map Visual:
 
