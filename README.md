@@ -77,7 +77,7 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 
 ![interest-rate-bar](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/10d5475f-3e0f-4baf-a99d-90babd266c40)
 
-# Limitions:
+# Limitations:
 1. Unable to calculate accurate annual data for house prices and interest rates so we
 2. Took quarter 2 values to represent the referenced years
 3. Unable to add a line graph to visually compare US house prices, interest rates, and family income
