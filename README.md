@@ -98,7 +98,11 @@ FRED. (n.d). "Mean Family Income in the United States". Federal Reserve Bank of 
 
 Grinberg, M. (2017, December 12th). “The Flask Mega-Tutorial Part II: Templates”. Miguelgrinberg.com. Retrieved from: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
 
+Leaflet. (n.d.). "Interactive Chroropleth Map". Leaflet. Retrieved from: https://leafletjs.com/examples/choropleth/
+
 Multiple Contributors (https://github.com/chartjs/Chart.js/graphs/contributors). (nd). “Chart.js”. Retrieved from: https://www.chartjs.org/
+
+Salman, T. (2017, March 16th). "HTML5 CSS 3- Container and Div- How to work within Container and Div". YouTube. Retrieved from: https://www.youtube.com/watch?v=iwz8YazPKZE&ab_channel=TanveerSalman
 
 SlidesGo. (n.d). “Rental Housing Marketing Plan”. Freepik Company S.L. Retrieved from: https://slidesgo.com/theme/rental-housing-marketing-plan#search-housing&position-8&results-69&rs=search
 
@@ -109,3 +113,4 @@ Wikipedia. (2022, December 3rd). “Lodash”. Wikipedia Foundation, Inc. Retrie
 Wikipedia. (2023, September 27th). “Charts.js”. Wikipedia Foundation, Inc. Retrieved from: https://en.wikipedia.org/wiki/Chart.js
 
 Y.,D. (2023, March 15th). "Use global variables in Python functions". Sentry. Retrieved from: "https://sentry.io/answers/use-global-variables-in-python-functions/"
+
