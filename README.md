@@ -53,12 +53,15 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 
 ![regions-image](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/7f9afd95-3fcd-430f-bd96-78ddcdcb4b0e)
 
-### Main Webpage: (add link here)
+### Main Webpage: 
 
-![Screenshot 2023-10-23 175928](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/1682fd19-2d07-473a-9e81-bfaa9bbfb984)
+![Screenshot 2023-10-23 181942](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/74c70f63-7bb3-4e64-8281-b15b2a85ab3b)
 
+![Screenshot 2023-10-23 181948](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/a2fa39dc-072f-49fc-b829-5a380c4640d8)
 
-### Line Graphs:
+![Screenshot 2023-10-23 181931](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/d0c268e6-75a9-4558-b9b2-1b092b7d9738)
+
+### Line Graphs Changing by Region:
 
 ![US-line](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/3faf32d1-1fc0-412e-85a8-e4581f2f4ec5)
 
@@ -70,7 +73,7 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 
 ![West-line](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/1781f45c-9f25-4399-b6ca-f50a46078938)
 
-### Bar Graph:
+### Bar Graph for Interest Rates:
 
 ![interest-rate-bar](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/10d5475f-3e0f-4baf-a99d-90babd266c40)
 
