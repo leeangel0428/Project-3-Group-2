@@ -6,6 +6,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func, select, text
 from flask import Flask, jsonify
 import json
+import os
 
 ## create engine
 url = "postgresql://postgres:postgres@localhost:5432/Project3"
@@ -17,6 +18,7 @@ app = Flask(__name__)
 
 # creating dictionary that will store response data
 response_data= {}
+
 
 @app.route('/data')
 
@@ -94,7 +96,14 @@ def function1():
         quarterly_interest_rate_key.append(qir_result_dict)
     response_data['quarterly_interest_rate']= quarterly_interest_rate_key
 
+    # states = states_info
+    # response_data['state_info'] = states
+
     return jsonify(response_data)
+
+
+
+
 
 @app.route('/')
 def index():
@@ -102,10 +111,6 @@ def index():
     function=function1()
 
     return render_template('index.html', data= function)
-
-@app.route('/test')
-def test():
-    return ({"test": "hello"})
 
 
 def close_connection():

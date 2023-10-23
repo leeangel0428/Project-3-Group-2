@@ -47,8 +47,8 @@ function createLineChart(region) {
             let annual_family_income_x = annual_family_income_regionValues[index]['year_quarter']
             annual_family_income_xValues.push(annual_family_income_x)
         }
-        console.log(annual_family_income_xValues)
-        console.log(annual_family_income_yValues)
+        // console.log(annual_family_income_xValues)
+        // console.log(annual_family_income_yValues)
 
         let annual_house_price_regionValues = data.annual_house_price
         let annual_house_price_yValues = []
@@ -59,8 +59,8 @@ function createLineChart(region) {
             let annual_house_price_x = annual_house_price_regionValues[index]['year_quarter']
             annual_house_price_xValues.push(annual_house_price_x)
         }
-        console.log(annual_house_price_xValues)
-        console.log(annual_house_price_yValues)
+        // console.log(annual_house_price_xValues)
+        // console.log(annual_house_price_yValues)
 
 //Creating traces in order to graph annual_family_income and annual house price 
         var trace1 = {
@@ -100,8 +100,8 @@ function createAreaGraph() {
             let annual_interest_rate_x = annual_interest_rate[index]['year_quarter']
             annual_interest_rate_xValues.push(annual_interest_rate_x)
         }
-        console.log(annual_interest_rate_xValues)
-        console.log(annual_interest_rate_yValues)
+        // console.log(annual_interest_rate_xValues)
+        // console.log(annual_interest_rate_yValues)
 
         var trace1 = {
             x: annual_interest_rate_xValues, 
@@ -118,28 +118,33 @@ function createAreaGraph() {
             yaxis: {title: 'US Interest Rate'},
             autosize: false,
         }
-        Plotly.newPlot('bar', data, layout);
+        Plotly.newPlot('graph', data, layout);
         
     })
 }
 //run init function
 init()
+createMap()
 
 //Creating the map
+function createMap(){
 
-// let myMap = L.map("map", {
-//     center: [37.09, -95.71],
-//     zoom: 5
-// });
 
-// L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-//     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-// }).addTo(myMap);
+    var map = L.map('map').setView([37.8, -96], 4,{
+        zoomControl: false
+    });
 
-// s
-// function color(region) {
-//     return region === 'United States'
-// }
+    var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 20,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    
+    // L.geoJson(statesData).addTo(map);
+    
+}
+
+
+
 
 
 
