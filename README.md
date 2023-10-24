@@ -36,7 +36,8 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 1. Data_cleaning.ipynb: jupyter ntoebook used to clean raw data from FRED
 2. app.py: python file used to grab postgres sql data and create the main and data webpages
 3. extra.text: text file to hold multiple different codes we tried while trouble shooting/working on project in general
-4. jsonifyoutput.text: text file used to hold the jsonified data output on our data webpage
+4. US region info.json: json file that holds the US regions, intended to use this to create map visualization but we did not have enough time
+5. jsonifyoutput.text: text file used to hold the jsonified data output on our data webpage
 6. Resources folder: holds the original csv files downloaded from FRED
 7. clean_data_outputs folder: holds the cleaned data from jupyter notebook
 8. postgres_sql_database folder: holds the schema used to create the ERD, the ERD, the data.sql file that contains sql code we used to create/import/alter tables and and clean values
@@ -87,7 +88,8 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 7. PostGresQL ERD/FKs and PKs
 8. Cleaned year_quarter values to remove “Q1” and “Q2” which skewed the ERD and FK constraints
 9. ERD appears correct despite being unable to adjust them in PostGres due to the actual values being changes
-10. Did not have enough time to use incorporate new js library 
+10. Did not have enough time to use incorporate new js library
+11. Originally had a third question we wanted to use a pie chart for but didn’t have enough time to make manual calculations/create visualization
 
 # Resources/ Citations:
 
