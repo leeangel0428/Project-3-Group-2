@@ -63,7 +63,7 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 
 ![Screenshot 2023-10-23 181931](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/d0c268e6-75a9-4558-b9b2-1b092b7d9738)
 
-### Line Graphs Changing by Region:
+### Annual House Price/Family Income Line Graphs Changing by Region:
 
 ![US-line](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/3faf32d1-1fc0-412e-85a8-e4581f2f4ec5)
 
@@ -75,9 +75,29 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 
 ![West-line](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/1781f45c-9f25-4399-b6ca-f50a46078938)
 
-### Bar Graph for Interest Rates:
+### Quarterly House Price Line Graphs Changing by Region:
+
+#### USA
+![usa-q](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/0052cdd9-de69-4966-917f-9516335f5b64)
+
+#### Midwest
+![mw-q](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/f1cd3b42-a72f-49fa-aa29-5805b730c3c2)
+
+### South
+![s-q](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/a2e66db8-4b16-49d2-8018-58e79c013fa2)
+
+### Northeast
+![ne-q](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/16f488a9-2654-433e-8922-b5efbf373705)
+
+#### West
+![west-quarter](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/b1ccf86e-98f9-4bc9-860f-ee2bf3861a09)
+
+### Bar Graph for Annual Interest Rates:
 
 ![interest-rate-bar](https://github.com/leeangel0428/Crowdfunding_ETL/assets/137225965/10d5475f-3e0f-4baf-a99d-90babd266c40)
+
+### Bar Graph for Quarterly Interest Rates:
+![ir-q](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/29e08de3-ded8-4882-a9cb-a9f9a8d79161)
 
 # Limitations:
 1. Unable to calculate accurate annual data for house prices and interest rates so we
