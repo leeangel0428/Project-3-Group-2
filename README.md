@@ -33,16 +33,17 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 3. 28% of the average household income is needed to cover the mortgage payments.
 
 # In this REPO:
-1. Data_cleaning.ipynb: jupyter ntoebook used to clean raw data from FRED
-2. app.py: python file used to grab postgres sql data and create the main and data webpages
-3. extra.text: text file to hold multiple different codes we tried while trouble shooting/working on project in general
-4. US region info.json: json file that holds the US regions, intended to use this to create map visualization but we did not have enough time
-5. jsonifyoutput.text: text file used to hold the jsonified data output on our data webpage
-6. Resources folder: holds the original csv files downloaded from FRED
-7. clean_data_outputs folder: holds the cleaned data from jupyter notebook
-8. postgres_sql_database folder: holds the schema used to create the ERD, the ERD, the data.sql file that contains sql code we used to create/import/alter tables and and clean values
-9. static folder: contains the css folder that holds the style.css file and the js folder that holds the logic.js file
-10. templates folder: contains the index.html file
+1. Project 3, Group 2- Presentation.pdf
+2. Data_cleaning.ipynb: jupyter ntoebook used to clean raw data from FRED
+3. app.py: python file used to grab postgres sql data and create the main and data webpages
+4. extra.text: text file to hold multiple different codes we tried while trouble shooting/working on project in general
+5. US region info.json: json file that holds the US regions, intended to use this to create map visualization but we did not have enough time
+6. jsonifyoutput.text: text file used to hold the jsonified data output on our data webpage
+7. Resources folder: holds the original csv files downloaded from FRED
+8. clean_data_outputs folder: holds the cleaned data from jupyter notebook
+9. postgres_sql_database folder: holds the schema used to create the ERD, the ERD, the data.sql file that contains sql code we used to create/import/alter tables and and clean values
+10. static folder: contains the css folder that holds the style.css file and the js folder that holds the logic.js file
+11. templates folder: contains the index.html file
 
 # Visualizations:
 
