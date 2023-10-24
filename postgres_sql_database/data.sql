@@ -51,31 +51,9 @@ CREATE TABLE "quarterly_interest_rate" (
     "fixed_30_year_rate" DECIMAL   NOT NULL
 );
 
---Altered tables w constraints but then couldn't import data, so we then had to drop them
+--This is normally where imported the data manually into the tables
 
-ALTER TABLE "annual_family_income" DROP CONSTRAINT "pk_annual_family_income";
-
-ALTER TABLE "annual_house_price" ADD CONSTRAINT "fk_annual_house_price_year_quarter" FOREIGN KEY("year_quarter")
-REFERENCES "annual_family_income" ("year_quarter");
-
-ALTER TABLE "annual_interest_rate" ADD CONSTRAINT "fk_annual_interest_rate_year_quarter" FOREIGN KEY("year_quarter")
-REFERENCES "annual_family_income" ("year_quarter");
-
-ALTER TABLE "quarterly_house_price" ADD CONSTRAINT "fk_quarterly_house_price_year_quarter" FOREIGN KEY("year_quarter")
-REFERENCES "annual_family_income" ("year_quarter");
-
-ALTER TABLE "quarterly_interest_rate" ADD CONSTRAINT "fk_quarterly_interest_rate_year_quarter" FOREIGN KEY("year_quarter")
-REFERENCES "annual_family_income" ("year_quarter");
-
-ALTER TABLE "annual_house_price" DROP CONSTRAINT "fk_annual_house_price_year_quarter"
-
-ALTER TABLE "annual_interest_rate" DROP CONSTRAINT "fk_annual_interest_rate_year_quarter"
-
-ALTER TABLE "quarterly_house_price" DROP CONSTRAINT "fk_quarterly_house_price_year_quarter"
-
-ALTER TABLE "quarterly_interest_rate" DROP CONSTRAINT "fk_quarterly_interest_rate_year_quarter"
-
---Altering tables to add relationships, PKs, FKs
+--Altering tables to add constraints/relationships, PKs, FKs
 
 ALTER TABLE "quarterly_house_price" ADD CONSTRAINT "pk_quarterly_house_price" PRIMARY KEY ("year_quarter");
 
@@ -109,8 +87,10 @@ SELECT * FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE TABLE_NAME='annual_inter
 SELECT * FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE TABLE_NAME='quarterly_house_price'
 SELECT * FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE WHERE TABLE_NAME='quarterly_interest_rate'
 
---Changing the values in the year_quarter columns for annual_family_income, annual_house_price, and annual_interest_rate
---Unfortunately, once we did this--it broke the relationships/FK constraints since the values differ now
+--Unfortunately, we ran into a hurdle when creating our visualizations. We needed our years not to include "Q1" and "Q2"
+--The code below allows us to do so but in order to do that, we had to drop constraints for the three annual data tables
+--This also causes issues in the ERD/relationships bc the values are now different
+    
 UPDATE annual_family_income
 SET year_quarter = SUBSTRING(year_quarter, 1, 4);
 
