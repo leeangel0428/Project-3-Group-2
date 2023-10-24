@@ -83,10 +83,10 @@ The aim of this project is to uncover patterns between the cost of homes in the 
 #### Midwest
 ![mw-q](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/f1cd3b42-a72f-49fa-aa29-5805b730c3c2)
 
-### South
+#### South
 ![s-q](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/a2e66db8-4b16-49d2-8018-58e79c013fa2)
 
-### Northeast
+#### Northeast
 ![ne-q](https://github.com/leeangel0428/Project-3-Group-2/assets/137225965/16f488a9-2654-433e-8922-b5efbf373705)
 
 #### West
